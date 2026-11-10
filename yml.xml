@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-10 12:20">
+<yml_catalog date="2026-11-10 20:54">
 <shop>
 <name>ПлёнкаОпт</name>
 <company>ООО «Название»</company>
 <url>https://tessera321.github.io/plenka-opt/</url>
 <currencies><currency id="RUB" rate="1"/></currencies>
-<categories><category id="1">Стрейч-плёнка</category><category id="2">Мембраны и пароизоляция</category><category id="3">Соединительные ленты</category><category id="4">Геотекстиль</category><category id="5">Упаковка</category></categories>
+<categories><category id="1">Стрейч-плёнка</category><category id="2">Мембраны и пароизоляция</category><category id="3">Отражающая изоляция</category><category id="4">Профилированные мембраны</category><category id="5">Соединительные ленты</category><category id="6">Геотекстиль</category><category id="7">Кровля и фасад</category><category id="8">Упаковка</category></categories>
 <offers>
 <offer id="ST-HP-20" available="true">
 <name>Стрейч-плёнка ручная, первичный, 20–23 мкм, 500 мм, Ролик 2,0 кг</name>
@@ -222,7 +222,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-fs/</url>
 <price>2642</price>
 <currencyId>RUB</currencyId>
-<categoryId>2</categoryId>
+<categoryId>3</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Трёхслойная паронепроницаемая мембрана с отражающим слоем — снижает теплопотери через ограждающие конструкции.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -232,7 +232,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-fb/</url>
 <price>2282</price>
 <currencyId>RUB</currencyId>
-<categoryId>2</categoryId>
+<categoryId>3</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Отражающая пароизоляция для бань, саун и помещений с высокой влажностью.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -242,7 +242,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-fb/</url>
 <price>1368</price>
 <currencyId>RUB</currencyId>
-<categoryId>2</categoryId>
+<categoryId>3</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Отражающая пароизоляция для бань, саун и помещений с высокой влажностью.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -692,7 +692,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/q-et/</url>
 <price>1469</price>
 <currencyId>RUB</currencyId>
-<categoryId>3</categoryId>
+<categoryId>5</categoryId>
 <vendor>QUATTRO</vendor>
 <description>Герметизация нахлёстов и примыканий диффузионных и ветрозащитных мембран, для наружных и внутренних работ, устойчива к УФ.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -702,7 +702,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/q-edt/</url>
 <price>1221</price>
 <currencyId>RUB</currencyId>
-<categoryId>3</categoryId>
+<categoryId>5</categoryId>
 <vendor>QUATTRO</vendor>
 <description>Двусторонняя акриловая лента для монтажа диффузионных мембран.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -712,7 +712,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/q-str/</url>
 <price>1507</price>
 <currencyId>RUB</currencyId>
-<categoryId>3</categoryId>
+<categoryId>5</categoryId>
 <vendor>QUATTRO</vendor>
 <description>Универсальная лента для диффузионных мембран и полипропиленовой пароизоляции.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -722,7 +722,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/q-smt/</url>
 <price>974</price>
 <currencyId>RUB</currencyId>
-<categoryId>3</categoryId>
+<categoryId>5</categoryId>
 <vendor>QUATTRO</vendor>
 <description>Лента для монтажа пароизоляции QUATTRO YELLOW 200.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -732,7 +732,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/q-t/</url>
 <price>869</price>
 <currencyId>RUB</currencyId>
-<categoryId>3</categoryId>
+<categoryId>5</categoryId>
 <vendor>QUATTRO</vendor>
 <description>Герметизация нахлёстов пароизоляционных мембран всех типов, для внутренних работ.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -742,7 +742,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/q-dt/</url>
 <price>1001</price>
 <currencyId>RUB</currencyId>
-<categoryId>3</categoryId>
+<categoryId>5</categoryId>
 <vendor>QUATTRO</vendor>
 <description>Двусторонняя лента для монтажа пароизоляции.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -752,7 +752,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-sl/</url>
 <price>568</price>
 <currencyId>RUB</currencyId>
-<categoryId>3</categoryId>
+<categoryId>5</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Для склеивания полотен мембран НАНОИЗОЛ: делает стыки влаго- и паронепроницаемыми.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -762,7 +762,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-al/</url>
 <price>428</price>
 <currencyId>RUB</currencyId>
-<categoryId>3</categoryId>
+<categoryId>5</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Для герметизации стыков отражающей пароизоляции, систем вентиляции и кондиционирования.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -772,7 +772,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g80/</url>
 <price>1859</price>
 <currencyId>RUB</currencyId>
-<categoryId>4</categoryId>
+<categoryId>6</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Нетканый геотекстиль из бесконечных полипропиленовых волокон: разделение, фильтрация, дренаж, дорожки, защита от корней.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -782,7 +782,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g80/</url>
 <price>968</price>
 <currencyId>RUB</currencyId>
-<categoryId>4</categoryId>
+<categoryId>6</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Нетканый геотекстиль из бесконечных полипропиленовых волокон: разделение, фильтрация, дренаж, дорожки, защита от корней.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -792,7 +792,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g130/</url>
 <price>2575</price>
 <currencyId>RUB</currencyId>
-<categoryId>4</categoryId>
+<categoryId>6</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Более плотный термокаландрированный геотекстиль для дорожных и дренажных конструкций.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -802,7 +802,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g130/</url>
 <price>1326</price>
 <currencyId>RUB</currencyId>
-<categoryId>4</categoryId>
+<categoryId>6</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Более плотный термокаландрированный геотекстиль для дорожных и дренажных конструкций.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -812,7 +812,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g150/</url>
 <price>2206</price>
 <currencyId>RUB</currencyId>
-<categoryId>4</categoryId>
+<categoryId>6</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Нетканое полотно из полиэфирных волокон с хорошей фильтрацией и прочностью на разрыв.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -822,7 +822,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g200/</url>
 <price>3273</price>
 <currencyId>RUB</currencyId>
-<categoryId>4</categoryId>
+<categoryId>6</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Иглопробивной полиэфирный геотекстиль повышенной плотности.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -832,7 +832,7 @@
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g300/</url>
 <price>4541</price>
 <currencyId>RUB</currencyId>
-<categoryId>4</categoryId>
+<categoryId>6</categoryId>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Самый плотный иглопробивной геотекстиль линейки.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
