@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-10 12:20">
+<shop>
+<name>ПлёнкаОпт</name>
+<company>ООО «Название»</company>
+<url>https://tessera321.github.io/plenka-opt/</url>
+<currencies><currency id="RUB" rate="1"/></currencies>
+<categories><category id="1">Стрейч-плёнка</category><category id="2">Мембраны и пароизоляция</category><category id="3">Соединительные ленты</category><category id="4">Геотекстиль</category><category id="5">Упаковка</category></categories>
+<offers>
+<offer id="ST-HP-20" available="true">
+<name>Стрейч-плёнка ручная, первичный, 20–23 мкм, 500 мм, Ролик 2,0 кг</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/strejch-ruchnoj-hp/</url>
+<price>444</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<description>Первичное сырьё: ровная намотка и высокая растяжимость. Для товаров, где важен вид паллеты.</description>
+<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+</offer>
+<offer id="ST-HP-18" available="true">
+<name>Стрейч-плёнка ручная, первичный, 20–23 мкм, 500 мм, Ролик 1,8 кг</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/strejch-ruchnoj-hp/</url>
+<price>403</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<description>Первичное сырьё: ровная намотка и высокая растяжимость. Для товаров, где важен вид паллеты.</description>
+<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+</offer>
+<offer id="ST-HM-20" available="true">
+<name>Стрейч-плёнка ручная, вторичный микс, 23–25 мкм, 500 мм, Ролик 2,0 кг</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/strejch-ruchnoj-hm/</url>
+<price>290</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<description>Смесь первичного и вторичного сырья — баланс цены и прочности для складской обмотки.</description>
+<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+</offer>
+<offer id="ST-HM-18" available="true">
+<name>Стрейч-плёнка ручная, вторичный микс, 23–25 мкм, 500 мм, Ролик 1,8 кг</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/strejch-ruchnoj-hm/</url>
+<price>264</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<description>Смесь первичного и вторичного сырья — баланс цены и прочности для складской обмотки.</description>
+<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+</offer>
+<offer id="ST-HS-20" available="true">
+<name>Стрейч-плёнка ручная, вторичный, 23–25 мкм, 500 мм, Ролик 2,0 кг</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/strejch-ruchnoj-hs/</url>
+<price>271</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<description>Самый доступный вариант для внутренней логистики и черновой обмотки.</description>
+<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+</offer>
+<offer id="ST-HS-18" available="true">
+<name>Стрейч-плёнка ручная, вторичный, 23–25 мкм, 500 мм, Ролик 1,8 кг</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/strejch-ruchnoj-hs/</url>
+<price>246</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<description>Самый доступный вариант для внутренней логистики и черновой обмотки.</description>
+<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+</offer>
+<offer id="ST-HB-20" available="true">
+<name>Стрейч-плёнка ручная, вторичный чёрный, 23–25 мкм, 500 мм, Ролик 2,0 кг</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/strejch-ruchnoj-hb/</url>
+<price>354</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<description>Непрозрачная плёнка: скрывает содержимое паллеты и защищает от солнца.</description>
+<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+</offer>
+<offer id="ST-HB-18" available="true">
+<name>Стрейч-плёнка ручная, вторичный чёрный, 23–25 мкм, 500 мм, Ролик 1,8 кг</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/strejch-ruchnoj-hb/</url>
+<price>323</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<description>Непрозрачная плёнка: скрывает содержимое паллеты и защищает от солнца.</description>
+<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+</offer>
+<offer id="ST-MP" available="true">
+<name>Стрейч-плёнка машинная, первичный, 20–23 мкм, 500 мм, Цена за 1 кг</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/strejch-mashinnyj-mp/</url>
+<price>217</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<description>Для паллетоупаковщиков: первичное сырьё, стабильное преднатяжение.</description>
+<sales_notes>Опт. Мин. партия: от 20 роликов (от 240 кг)</sales_notes>
+</offer>
+<offer id="ST-MS" available="true">
+<name>Стрейч-плёнка машинная, вторичный, 23–25 мкм, 500 мм, Цена за 1 кг</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/strejch-mashinnyj-ms/</url>
+<price>140</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<description>Экономичная машинная плёнка для внутренней логистики.</description>
+<sales_notes>Опт. Мин. партия: от 20 роликов (от 240 кг)</sales_notes>
+</offer>
+<offer id="NZ-A-70" available="true">
+<name>Ветро-влагозащитная мембрана НАНОИЗОЛ A, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-a/</url>
+<price>1547</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-A-35" available="true">
+<name>Ветро-влагозащитная мембрана НАНОИЗОЛ A, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-a/</url>
+<price>806</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-A-70K" available="true">
+<name>Ветро-влагозащитная мембрана НАНОИЗОЛ A, Рулон 70 м² с клеевой полосой</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-a/</url>
+<price>2374</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-AB-70" available="true">
+<name>Ветрозащита НАНОИЗОЛ A black, чёрная, Рулон 70 м²</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-ab/</url>
+<price>1815</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Ветрозащитная мембрана чёрного цвета — для фасадных систем, где мембрана видна в зазорах облицовки.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-B-70" available="true">
+<name>Пароизоляция НАНОИЗОЛ B, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-b/</url>
+<price>1129</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-B-35" available="true">
+<name>Пароизоляция НАНОИЗОЛ B, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-b/</url>
+<price>597</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-B-70K" available="true">
+<name>Пароизоляция НАНОИЗОЛ B, Рулон 70 м² с клеевой полосой</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-b/</url>
+<price>1728</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-C-70" available="true">
+<name>Гидро-пароизоляция НАНОИЗОЛ C, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-c/</url>
+<price>1736</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Универсальная гидро-пароизоляция для неутеплённых скатных крыш, полов на влажных основаниях и цокольных перекрытий.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-C-35" available="true">
+<name>Гидро-пароизоляция НАНОИЗОЛ C, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-c/</url>
+<price>901</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Универсальная гидро-пароизоляция для неутеплённых скатных крыш, полов на влажных основаниях и цокольных перекрытий.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-D-70" available="true">
+<name>Гидро-пароизоляция повышенной прочности НАНОИЗОЛ D, Рулон 70 м², 46 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-d/</url>
+<price>1840</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-D-35" available="true">
+<name>Гидро-пароизоляция повышенной прочности НАНОИЗОЛ D, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-d/</url>
+<price>954</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-D-70K" available="true">
+<name>Гидро-пароизоляция повышенной прочности НАНОИЗОЛ D, Рулон 70 м² с клеевой полосой</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-d/</url>
+<price>2470</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-FS-70" available="true">
+<name>Отражающая гидро-пароизоляция НАНОИЗОЛ FS, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-fs/</url>
+<price>2642</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Трёхслойная паронепроницаемая мембрана с отражающим слоем — снижает теплопотери через ограждающие конструкции.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-FB-30" available="true">
+<name>Пароизоляция для бань и саун НАНОИЗОЛ FB, Рулон 30 м², 25 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-fb/</url>
+<price>2282</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Отражающая пароизоляция для бань, саун и помещений с высокой влажностью.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-FB-18" available="true">
+<name>Пароизоляция для бань и саун НАНОИЗОЛ FB, Рулон 18 м², 15 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-fb/</url>
+<price>1368</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Отражающая пароизоляция для бань, саун и помещений с высокой влажностью.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-SM-70" available="true">
+<name>Супердиффузионная мембрана НАНОИЗОЛ SM, двухслойная, Рулон 70 м², 46 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-sm/</url>
+<price>3851</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Диффузионная мембрана, армированная нетканым полипропиленом: защищает от ветра, влаги и подкровельного конденсата и выводит пар.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-SM-35" available="true">
+<name>Супердиффузионная мембрана НАНОИЗОЛ SM, двухслойная, Рулон 35 м², 23 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-sm/</url>
+<price>1959</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Диффузионная мембрана, армированная нетканым полипропиленом: защищает от ветра, влаги и подкровельного конденсата и выводит пар.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-SD-70" available="true">
+<name>Супердиффузионная мембрана НАНОИЗОЛ SD, трёхслойная, Рулон 70 м², 46 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-sd/</url>
+<price>4509</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-SD-35" available="true">
+<name>Супердиффузионная мембрана НАНОИЗОЛ SD, трёхслойная, Рулон 35 м², 23 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-sd/</url>
+<price>2284</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-SD-70K" available="true">
+<name>Супердиффузионная мембрана НАНОИЗОЛ SD, трёхслойная, Рулон 70 м² с клеевой полосой</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-sd/</url>
+<price>4487</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZL-A-70" available="true">
+<name>Ветрозащита НАНОИЗОЛ Лайт A, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzl-a/</url>
+<price>1045</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Эконом-версия ветрозащитной мембраны для частного строительства.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZL-A-35" available="true">
+<name>Ветрозащита НАНОИЗОЛ Лайт A, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzl-a/</url>
+<price>556</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Эконом-версия ветрозащитной мембраны для частного строительства.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZL-B-70" available="true">
+<name>Пароизоляция НАНОИЗОЛ Лайт B, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzl-b/</url>
+<price>792</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Эконом-пароизоляция с антиконденсатным слоем.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZL-B-35" available="true">
+<name>Пароизоляция НАНОИЗОЛ Лайт B, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzl-b/</url>
+<price>429</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Эконом-пароизоляция с антиконденсатным слоем.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZL-C-70" available="true">
+<name>Гидро-пароизоляция НАНОИЗОЛ Лайт C, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzl-c/</url>
+<price>1045</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Эконом-гидро-пароизоляция для неутеплённых крыш и полов.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZL-C-35" available="true">
+<name>Гидро-пароизоляция НАНОИЗОЛ Лайт C, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzl-c/</url>
+<price>556</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Эконом-гидро-пароизоляция для неутеплённых крыш и полов.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZL-D-70" available="true">
+<name>Гидро-пароизоляция повышенной прочности НАНОИЗОЛ Лайт D, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzl-d/</url>
+<price>1652</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Тканая гидро-пароизоляция в эконом-линейке.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZL-D-35" available="true">
+<name>Гидро-пароизоляция повышенной прочности НАНОИЗОЛ Лайт D, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzl-d/</url>
+<price>859</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Тканая гидро-пароизоляция в эконом-линейке.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="GT-A-70" available="true">
+<name>Ветро-влагозащитная мембрана GRANDTEX A, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/gt-a/</url>
+<price>1334</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>GRANDTEX</vendor>
+<description>Паропроницаемая мембрана для защиты утеплителя от ветра, влаги и конденсата.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="GT-A-35" available="true">
+<name>Ветро-влагозащитная мембрана GRANDTEX A, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/gt-a/</url>
+<price>701</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>GRANDTEX</vendor>
+<description>Паропроницаемая мембрана для защиты утеплителя от ветра, влаги и конденсата.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="GT-B-70" available="true">
+<name>Пароизоляция GRANDTEX B, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/gt-b/</url>
+<price>1082</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>GRANDTEX</vendor>
+<description>Двухслойная пароизоляция: гладкая сторона к утеплителю, шероховатая — в помещение, с вентзазором.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="GT-B-35" available="true">
+<name>Пароизоляция GRANDTEX B, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/gt-b/</url>
+<price>574</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>GRANDTEX</vendor>
+<description>Двухслойная пароизоляция: гладкая сторона к утеплителю, шероховатая — в помещение, с вентзазором.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="GT-C-70" available="true">
+<name>Гидро-пароизоляция GRANDTEX C, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/gt-c/</url>
+<price>1485</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>GRANDTEX</vendor>
+<description>Для неутеплённых и плоских кровель, стяжек в подвалах и под ламинат.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="GT-C-35" available="true">
+<name>Гидро-пароизоляция GRANDTEX C, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/gt-c/</url>
+<price>776</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>GRANDTEX</vendor>
+<description>Для неутеплённых и плоских кровель, стяжек в подвалах и под ламинат.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="GT-D-70" available="true">
+<name>Гидро-пароизоляция повышенной прочности GRANDTEX D, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/gt-d/</url>
+<price>1840</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>GRANDTEX</vendor>
+<description>Тканое полипропиленовое полотно с ламинацией; подходит как временная кровля.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="GT-D-35" available="true">
+<name>Гидро-пароизоляция повышенной прочности GRANDTEX D, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/gt-d/</url>
+<price>954</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>GRANDTEX</vendor>
+<description>Тканое полипропиленовое полотно с ламинацией; подходит как временная кровля.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="GT-AM-70" available="true">
+<name>Супердиффузионная мембрана GRANDTEX AM, двухслойная, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/gt-am/</url>
+<price>3851</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>GRANDTEX</vendor>
+<description>Диффузионная мембрана, армированная нетканым полотном, выдерживает давление более 2 м вод. ст.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="GT-AM-35" available="true">
+<name>Супердиффузионная мембрана GRANDTEX AM, двухслойная, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/gt-am/</url>
+<price>1959</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>GRANDTEX</vendor>
+<description>Диффузионная мембрана, армированная нетканым полотном, выдерживает давление более 2 м вод. ст.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-A-70" available="true">
+<name>Ветро-влагозащитная мембрана НАНОИЗОЛ A Professional, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-a/</url>
+<price>3022</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-A-35" available="true">
+<name>Ветро-влагозащитная мембрана НАНОИЗОЛ A Professional, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-a/</url>
+<price>1544</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-A-70K" available="true">
+<name>Ветро-влагозащитная мембрана НАНОИЗОЛ A Professional, Рулон 70 м² с клеевой полосой</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-a/</url>
+<price>3414</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-AB-70" available="true">
+<name>Ветрозащита НАНОИЗОЛ A Professional black, чёрная, Рулон 70 м²</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-ab/</url>
+<price>2929</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Чёрная версия мембраны A Professional для открытых фасадных систем.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-AB-35" available="true">
+<name>Ветрозащита НАНОИЗОЛ A Professional black, чёрная, Рулон 35 м²</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-ab/</url>
+<price>1498</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Чёрная версия мембраны A Professional для открытых фасадных систем.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-B-70" available="true">
+<name>Пароизоляция НАНОИЗОЛ B Professional, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-b/</url>
+<price>2225</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Армированная двухслойная пароизоляция с разметкой для нахлёста.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-B-35" available="true">
+<name>Пароизоляция НАНОИЗОЛ B Professional, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-b/</url>
+<price>1146</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Армированная двухслойная пароизоляция с разметкой для нахлёста.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-B-70K" available="true">
+<name>Пароизоляция НАНОИЗОЛ B Professional, Рулон 70 м² с клеевой полосой</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-b/</url>
+<price>2617</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Армированная двухслойная пароизоляция с разметкой для нахлёста.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-D-70" available="true">
+<name>Гидро-пароизоляция НАНОИЗОЛ D Professional, Рулон 70 м², 46 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-d/</url>
+<price>2982</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-D-35" available="true">
+<name>Гидро-пароизоляция НАНОИЗОЛ D Professional, Рулон 35 м², 23 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-d/</url>
+<price>1525</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-D-70K" available="true">
+<name>Гидро-пароизоляция НАНОИЗОЛ D Professional, Рулон 70 м² с клеевой полосой</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-d/</url>
+<price>3210</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-SD-70" available="true">
+<name>Супердиффузионная мембрана НАНОИЗОЛ SD Professional, Рулон 70 м², 44 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-sd/</url>
+<price>5068</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-SD-35" available="true">
+<name>Супердиффузионная мембрана НАНОИЗОЛ SD Professional, Рулон 35 м², 22 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-sd/</url>
+<price>2567</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZP-SD-70K" available="true">
+<name>Супердиффузионная мембрана НАНОИЗОЛ SD Professional, Рулон 70 м² с клеевой полосой</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nzp-sd/</url>
+<price>5464</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-E180-70" available="true">
+<name>Супердиффузионная мембрана QUATTRO EXPERT 180, Рулон 70 м², 46,6 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-e180/</url>
+<price>8091</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Трёхслойная гидроизоляционная мембрана для экстремальных нагрузок.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-S150-70" available="true">
+<name>Супердиффузионная мембрана QUATTRO STANDART 150, Рулон 70 м², 46,6 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-s150/</url>
+<price>6980</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Трёхслойная мембрана: функциональный слой защищён с двух сторон нетканым полотном.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-IN-70" available="true">
+<name>Обеспыливающая мембрана QUATTRO INSIDE, Рулон 70 м²</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-in/</url>
+<price>2970</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Паропроницаемая мембрана для внутренних перегородок: удерживает частицы утеплителя.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-Y200-150" available="true">
+<name>Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм, Рулон 150 м², 3,2 × 46,9 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-y200/</url>
+<price>8814</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-Y200-75" available="true">
+<name>Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм, Рулон 75 м²</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-y200/</url>
+<price>4627</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-Y200-50" available="true">
+<name>Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм, Рулон 50 м², ширина 1,6 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-y200/</url>
+<price>3245</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-Y200-Z" available="true">
+<name>Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм, Для закладных, 0,6 × 50 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-y200/</url>
+<price>1980</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-ET" available="true">
+<name>Лента QUATTRO EXPERT TAPE для диффузионных мембран, Рулон 60 мм × 25 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-et/</url>
+<price>1469</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Герметизация нахлёстов и примыканий диффузионных и ветрозащитных мембран, для наружных и внутренних работ, устойчива к УФ.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-EDT" available="true">
+<name>Лента QUATTRO EXPERT DOUBLE TAPE, двусторонняя, Рулон 25 мм × 50 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-edt/</url>
+<price>1221</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Двусторонняя акриловая лента для монтажа диффузионных мембран.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-STR" available="true">
+<name>Лента QUATTRO STRONG TAPE универсальная, Рулон 60 мм × 25 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-str/</url>
+<price>1507</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Универсальная лента для диффузионных мембран и полипропиленовой пароизоляции.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-SMT" available="true">
+<name>Лента QUATTRO SMART TAPE для пароизоляции YELLOW 200, Рулон 60 мм × 25 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-smt/</url>
+<price>974</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Лента для монтажа пароизоляции QUATTRO YELLOW 200.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-T" available="true">
+<name>Лента QUATTRO TAPE для пароизоляции, Рулон 50 мм × 25 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-t/</url>
+<price>869</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Герметизация нахлёстов пароизоляционных мембран всех типов, для внутренних работ.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="Q-DT" available="true">
+<name>Лента QUATTRO DOUBLE TAPE для пароизоляции, двусторонняя, Рулон 25 мм × 50 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/q-dt/</url>
+<price>1001</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<vendor>QUATTRO</vendor>
+<description>Двусторонняя лента для монтажа пароизоляции.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-SL" available="true">
+<name>Соединительная лента НАНОИЗОЛ SL, Рулон 20 мм × 50 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-sl/</url>
+<price>568</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Для склеивания полотен мембран НАНОИЗОЛ: делает стыки влаго- и паронепроницаемыми.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-AL" available="true">
+<name>Алюминиевая лента НАНОИЗОЛ AL, Рулон 50 мм × 25 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-al/</url>
+<price>428</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Для герметизации стыков отражающей пароизоляции, систем вентиляции и кондиционирования.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-G80-80" available="true">
+<name>Геотекстиль НАНОИЗОЛ GEO 80, термокаландрированный, Рулон 80 м², 50 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-g80/</url>
+<price>1859</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Нетканый геотекстиль из бесконечных полипропиленовых волокон: разделение, фильтрация, дренаж, дорожки, защита от корней.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-G80-40" available="true">
+<name>Геотекстиль НАНОИЗОЛ GEO 80, термокаландрированный, Рулон 40 м², 25 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-g80/</url>
+<price>968</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Нетканый геотекстиль из бесконечных полипропиленовых волокон: разделение, фильтрация, дренаж, дорожки, защита от корней.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-G130-80" available="true">
+<name>Геотекстиль НАНОИЗОЛ GEO 130, термокаландрированный, Рулон 80 м², 50 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-g130/</url>
+<price>2575</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Более плотный термокаландрированный геотекстиль для дорожных и дренажных конструкций.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-G130-40" available="true">
+<name>Геотекстиль НАНОИЗОЛ GEO 130, термокаландрированный, Рулон 40 м², 25 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-g130/</url>
+<price>1326</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Более плотный термокаландрированный геотекстиль для дорожных и дренажных конструкций.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-G150-42" available="true">
+<name>Геотекстиль НАНОИЗОЛ GEO 150, иглопробивной, Рулон 42 м², 21 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-g150/</url>
+<price>2206</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Нетканое полотно из полиэфирных волокон с хорошей фильтрацией и прочностью на разрыв.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-G200-50" available="true">
+<name>Геотекстиль НАНОИЗОЛ GEO 200, иглопробивной, Рулон 50 м², 25 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-g200/</url>
+<price>3273</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Иглопробивной полиэфирный геотекстиль повышенной плотности.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+<offer id="NZ-G300-50" available="true">
+<name>Геотекстиль НАНОИЗОЛ GEO 300, иглопробивной, Рулон 50 м², 25 м</name>
+<url>https://tessera321.github.io/plenka-opt/tovar/nz-g300/</url>
+<price>4541</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<vendor>НАНОИЗОЛ</vendor>
+<description>Самый плотный иглопробивной геотекстиль линейки.</description>
+<sales_notes>Только опт, оплата по счёту</sales_notes>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
