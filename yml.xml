@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-11 06:38">
+<yml_catalog date="2026-11-11 06:49">
 <shop>
 <name>ПлёнкаОпт</name>
 <company>ООО «Название»</company>
@@ -103,6 +103,7 @@
 <price>1547</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -113,6 +114,7 @@
 <price>806</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -123,6 +125,7 @@
 <price>2374</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -143,6 +146,7 @@
 <price>1129</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -153,6 +157,7 @@
 <price>597</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -163,6 +168,7 @@
 <price>1728</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -173,6 +179,7 @@
 <price>1736</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-c-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Универсальная гидро-пароизоляция для неутеплённых скатных крыш, полов на влажных основаниях и цокольных перекрытий.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -183,6 +190,7 @@
 <price>901</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-c-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Универсальная гидро-пароизоляция для неутеплённых скатных крыш, полов на влажных основаниях и цокольных перекрытий.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -193,6 +201,7 @@
 <price>1840</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -203,6 +212,7 @@
 <price>954</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -213,6 +223,7 @@
 <price>2470</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -223,6 +234,7 @@
 <price>2642</price>
 <currencyId>RUB</currencyId>
 <categoryId>3</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fs-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Трёхслойная паронепроницаемая мембрана с отражающим слоем — снижает теплопотери через ограждающие конструкции.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -233,6 +245,7 @@
 <price>2282</price>
 <currencyId>RUB</currencyId>
 <categoryId>3</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fb-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Отражающая пароизоляция для бань, саун и помещений с высокой влажностью.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -243,6 +256,7 @@
 <price>1368</price>
 <currencyId>RUB</currencyId>
 <categoryId>3</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fb-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Отражающая пароизоляция для бань, саун и помещений с высокой влажностью.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -253,6 +267,7 @@
 <price>3851</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sm-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Диффузионная мембрана, армированная нетканым полипропиленом: защищает от ветра, влаги и подкровельного конденсата и выводит пар.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -263,6 +278,7 @@
 <price>1959</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sm-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Диффузионная мембрана, армированная нетканым полипропиленом: защищает от ветра, влаги и подкровельного конденсата и выводит пар.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -273,6 +289,7 @@
 <price>4509</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -283,6 +300,7 @@
 <price>2284</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -293,6 +311,7 @@
 <price>4487</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -483,6 +502,7 @@
 <price>3022</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -493,6 +513,7 @@
 <price>1544</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -503,6 +524,7 @@
 <price>3414</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -533,6 +555,7 @@
 <price>2225</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Армированная двухслойная пароизоляция с разметкой для нахлёста.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -543,6 +566,7 @@
 <price>1146</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Армированная двухслойная пароизоляция с разметкой для нахлёста.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -553,6 +577,7 @@
 <price>2617</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Армированная двухслойная пароизоляция с разметкой для нахлёста.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -563,6 +588,7 @@
 <price>2982</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -573,6 +599,7 @@
 <price>1525</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -583,6 +610,7 @@
 <price>3210</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -593,6 +621,7 @@
 <price>5068</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -603,6 +632,7 @@
 <price>2567</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -613,6 +643,7 @@
 <price>5464</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -733,6 +764,7 @@
 <price>869</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-t-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Герметизация нахлёстов пароизоляционных мембран всех типов, для внутренних работ.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -773,6 +805,7 @@
 <price>1859</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g80-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Нетканый геотекстиль из бесконечных полипропиленовых волокон: разделение, фильтрация, дренаж, дорожки, защита от корней.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -783,6 +816,7 @@
 <price>968</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g80-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Нетканый геотекстиль из бесконечных полипропиленовых волокон: разделение, фильтрация, дренаж, дорожки, защита от корней.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -793,6 +827,7 @@
 <price>2575</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g130-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Более плотный термокаландрированный геотекстиль для дорожных и дренажных конструкций.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -803,6 +838,7 @@
 <price>1326</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g130-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Более плотный термокаландрированный геотекстиль для дорожных и дренажных конструкций.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -813,6 +849,7 @@
 <price>2206</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g150-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Нетканое полотно из полиэфирных волокон с хорошей фильтрацией и прочностью на разрыв.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -823,6 +860,7 @@
 <price>3273</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g200-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Иглопробивной полиэфирный геотекстиль повышенной плотности.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
