@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-11 09:08">
+<yml_catalog date="2026-11-13 06:17">
 <shop>
 <name>ПлёнкаОпт</name>
 <company>ООО «Название»</company>
@@ -13,6 +13,7 @@
 <price>444</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hp.webp</picture>
 <description>Первичное сырьё: ровная намотка и высокая растяжимость. Для товаров, где важен вид паллеты.</description>
 <sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
 </offer>
@@ -22,6 +23,7 @@
 <price>403</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hp.webp</picture>
 <description>Первичное сырьё: ровная намотка и высокая растяжимость. Для товаров, где важен вид паллеты.</description>
 <sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
 </offer>
@@ -31,6 +33,7 @@
 <price>290</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hm.webp</picture>
 <description>Смесь первичного и вторичного сырья — баланс цены и прочности для складской обмотки.</description>
 <sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
 </offer>
@@ -40,6 +43,7 @@
 <price>264</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hm.webp</picture>
 <description>Смесь первичного и вторичного сырья — баланс цены и прочности для складской обмотки.</description>
 <sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
 </offer>
@@ -49,6 +53,7 @@
 <price>271</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hs.webp</picture>
 <description>Самый доступный вариант для внутренней логистики и черновой обмотки.</description>
 <sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
 </offer>
@@ -58,6 +63,7 @@
 <price>246</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hs.webp</picture>
 <description>Самый доступный вариант для внутренней логистики и черновой обмотки.</description>
 <sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
 </offer>
@@ -67,6 +73,7 @@
 <price>354</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hb.webp</picture>
 <description>Непрозрачная плёнка: скрывает содержимое паллеты и защищает от солнца.</description>
 <sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
 </offer>
@@ -76,6 +83,7 @@
 <price>323</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hb.webp</picture>
 <description>Непрозрачная плёнка: скрывает содержимое паллеты и защищает от солнца.</description>
 <sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
 </offer>
@@ -85,6 +93,7 @@
 <price>217</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-mp.webp</picture>
 <description>Для паллетоупаковщиков: первичное сырьё, стабильное преднатяжение.</description>
 <sales_notes>Опт. Мин. партия: от 20 роликов (от 240 кг)</sales_notes>
 </offer>
@@ -94,6 +103,7 @@
 <price>140</price>
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-ms.webp</picture>
 <description>Экономичная машинная плёнка для внутренней логистики.</description>
 <sales_notes>Опт. Мин. партия: от 20 роликов (от 240 кг)</sales_notes>
 </offer>
@@ -136,6 +146,7 @@
 <price>1815</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-ab-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Ветрозащитная мембрана чёрного цвета — для фасадных систем, где мембрана видна в зазорах облицовки.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -322,6 +333,7 @@
 <price>1045</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-a-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Эконом-версия ветрозащитной мембраны для частного строительства.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -332,6 +344,7 @@
 <price>556</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-a-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Эконом-версия ветрозащитной мембраны для частного строительства.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -342,6 +355,7 @@
 <price>792</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-b-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Эконом-пароизоляция с антиконденсатным слоем.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -352,6 +366,7 @@
 <price>429</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-b-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Эконом-пароизоляция с антиконденсатным слоем.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -362,6 +377,7 @@
 <price>1045</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-c-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Эконом-гидро-пароизоляция для неутеплённых крыш и полов.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -372,6 +388,7 @@
 <price>556</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-c-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Эконом-гидро-пароизоляция для неутеплённых крыш и полов.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -382,6 +399,7 @@
 <price>1652</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-d-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Тканая гидро-пароизоляция в эконом-линейке.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -392,6 +410,7 @@
 <price>859</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-d-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Тканая гидро-пароизоляция в эконом-линейке.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -402,6 +421,7 @@
 <price>1334</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-a-1.webp</picture>
 <vendor>GRANDTEX</vendor>
 <description>Паропроницаемая мембрана для защиты утеплителя от ветра, влаги и конденсата.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -412,6 +432,7 @@
 <price>701</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-a-1.webp</picture>
 <vendor>GRANDTEX</vendor>
 <description>Паропроницаемая мембрана для защиты утеплителя от ветра, влаги и конденсата.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -422,6 +443,7 @@
 <price>1082</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-b-1.webp</picture>
 <vendor>GRANDTEX</vendor>
 <description>Двухслойная пароизоляция: гладкая сторона к утеплителю, шероховатая — в помещение, с вентзазором.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -432,6 +454,7 @@
 <price>574</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-b-1.webp</picture>
 <vendor>GRANDTEX</vendor>
 <description>Двухслойная пароизоляция: гладкая сторона к утеплителю, шероховатая — в помещение, с вентзазором.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -442,6 +465,7 @@
 <price>1485</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-c-1.webp</picture>
 <vendor>GRANDTEX</vendor>
 <description>Для неутеплённых и плоских кровель, стяжек в подвалах и под ламинат.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -452,6 +476,7 @@
 <price>776</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-c-1.webp</picture>
 <vendor>GRANDTEX</vendor>
 <description>Для неутеплённых и плоских кровель, стяжек в подвалах и под ламинат.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -462,6 +487,7 @@
 <price>1840</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-d-1.webp</picture>
 <vendor>GRANDTEX</vendor>
 <description>Тканое полипропиленовое полотно с ламинацией; подходит как временная кровля.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -472,6 +498,7 @@
 <price>954</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-d-1.webp</picture>
 <vendor>GRANDTEX</vendor>
 <description>Тканое полипропиленовое полотно с ламинацией; подходит как временная кровля.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -482,6 +509,7 @@
 <price>3851</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-am-1.webp</picture>
 <vendor>GRANDTEX</vendor>
 <description>Диффузионная мембрана, армированная нетканым полотном, выдерживает давление более 2 м вод. ст.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -492,6 +520,7 @@
 <price>1959</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-am-1.webp</picture>
 <vendor>GRANDTEX</vendor>
 <description>Диффузионная мембрана, армированная нетканым полотном, выдерживает давление более 2 м вод. ст.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -535,6 +564,7 @@
 <price>2929</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-ab-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Чёрная версия мембраны A Professional для открытых фасадных систем.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -545,6 +575,7 @@
 <price>1498</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-ab-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Чёрная версия мембраны A Professional для открытых фасадных систем.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -654,6 +685,7 @@
 <price>8091</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-e180-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Трёхслойная гидроизоляционная мембрана для экстремальных нагрузок.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -664,6 +696,7 @@
 <price>6980</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-s150-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Трёхслойная мембрана: функциональный слой защищён с двух сторон нетканым полотном.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -684,6 +717,7 @@
 <price>8814</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -694,6 +728,7 @@
 <price>4627</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -704,6 +739,7 @@
 <price>3245</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -714,6 +750,7 @@
 <price>1980</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -724,6 +761,7 @@
 <price>1469</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-et-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Герметизация нахлёстов и примыканий диффузионных и ветрозащитных мембран, для наружных и внутренних работ, устойчива к УФ.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -734,6 +772,7 @@
 <price>1221</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-edt-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Двусторонняя акриловая лента для монтажа диффузионных мембран.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -744,6 +783,7 @@
 <price>1507</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-str-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Универсальная лента для диффузионных мембран и полипропиленовой пароизоляции.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -754,6 +794,7 @@
 <price>974</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-smt-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Лента для монтажа пароизоляции QUATTRO YELLOW 200.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -775,6 +816,7 @@
 <price>1001</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-dt-1.webp</picture>
 <vendor>QUATTRO</vendor>
 <description>Двусторонняя лента для монтажа пароизоляции.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -785,6 +827,7 @@
 <price>568</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sl-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Для склеивания полотен мембран НАНОИЗОЛ: делает стыки влаго- и паронепроницаемыми.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -795,6 +838,7 @@
 <price>428</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-al-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Для герметизации стыков отражающей пароизоляции, систем вентиляции и кондиционирования.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
@@ -871,6 +915,7 @@
 <price>4541</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g300-1.webp</picture>
 <vendor>НАНОИЗОЛ</vendor>
 <description>Самый плотный иглопробивной геотекстиль линейки.</description>
 <sales_notes>Только опт, оплата по счёту</sales_notes>
