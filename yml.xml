@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 06:17">
+<yml_catalog date="2026-11-13 06:43">
 <shop>
 <name>ПлёнкаОпт</name>
 <company>ООО «Название»</company>
 <url>https://tessera321.github.io/plenka-opt/</url>
+<email>zakaz@plenka-opt.example</email>
 <currencies><currency id="RUB" rate="1"/></currencies>
 <categories><category id="1">Стрейч-плёнка</category><category id="2">Мембраны и пароизоляция</category><category id="3">Отражающая изоляция</category><category id="4">Профилированные мембраны</category><category id="5">Соединительные ленты</category><category id="6">Геотекстиль</category><category id="7">Кровля и фасад</category><category id="8">Упаковка</category></categories>
 <offers>
@@ -14,8 +15,22 @@
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hp.webp</picture>
-<description>Первичное сырьё: ровная намотка и высокая растяжимость. Для товаров, где важен вид паллеты.</description>
-<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Первичное сырьё: ровная намотка и высокая растяжимость. Для товаров, где важен вид паллеты. Стрейч-плёнка ручная, первичный, 20–23 мкм, 500 мм — поставляем оптом с завода по Москве и Московской области. Основные параметры: толщина 20–23 мкм. Варианты: 2,0 кг; 1,8 кг. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: обмотка паллет на складах и в логистике; фиксация груза при перевозке; защита товара от пыли и влаги.</description>
+<sales_notes>Мин. партия от 10 коробок (60 роликов)</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2</weight>
+<param name="Тип">Ручная (паллетная)</param>
+<param name="Сырьё">Первичное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Толщина">20–23 мкм</param>
+<param name="Ширина">500 мм</param>
+<param name="Коробка">6 роликов</param>
+<param name="Отгрузка">по весу нетто ролика</param>
+<param name="Вариант">Ролик 2,0 кг</param>
+<param name="Единица продажи">ролик</param>
 </offer>
 <offer id="ST-HP-18" available="true">
 <name>Стрейч-плёнка ручная, первичный, 20–23 мкм, 500 мм, Ролик 1,8 кг</name>
@@ -24,8 +39,22 @@
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hp.webp</picture>
-<description>Первичное сырьё: ровная намотка и высокая растяжимость. Для товаров, где важен вид паллеты.</description>
-<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Первичное сырьё: ровная намотка и высокая растяжимость. Для товаров, где важен вид паллеты. Стрейч-плёнка ручная, первичный, 20–23 мкм, 500 мм — поставляем оптом с завода по Москве и Московской области. Основные параметры: толщина 20–23 мкм. Варианты: 2,0 кг; 1,8 кг. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: обмотка паллет на складах и в логистике; фиксация груза при перевозке; защита товара от пыли и влаги.</description>
+<sales_notes>Мин. партия от 10 коробок (60 роликов)</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>1.8</weight>
+<param name="Тип">Ручная (паллетная)</param>
+<param name="Сырьё">Первичное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Толщина">20–23 мкм</param>
+<param name="Ширина">500 мм</param>
+<param name="Коробка">6 роликов</param>
+<param name="Отгрузка">по весу нетто ролика</param>
+<param name="Вариант">Ролик 1,8 кг</param>
+<param name="Единица продажи">ролик</param>
 </offer>
 <offer id="ST-HM-20" available="true">
 <name>Стрейч-плёнка ручная, вторичный микс, 23–25 мкм, 500 мм, Ролик 2,0 кг</name>
@@ -34,8 +63,22 @@
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hm.webp</picture>
-<description>Смесь первичного и вторичного сырья — баланс цены и прочности для складской обмотки.</description>
-<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Смесь первичного и вторичного сырья — баланс цены и прочности для складской обмотки. Стрейч-плёнка ручная, вторичный микс, 23–25 мкм, 500 мм — поставляем оптом с завода по Москве и Московской области. Основные параметры: толщина 23–25 мкм. Варианты: 2,0 кг; 1,8 кг. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: обмотка паллет на складах и в логистике; фиксация груза при перевозке; защита товара от пыли и влаги.</description>
+<sales_notes>Мин. партия от 10 коробок (60 роликов)</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2</weight>
+<param name="Тип">Ручная (паллетная)</param>
+<param name="Сырьё">Вторичное микс</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Толщина">23–25 мкм</param>
+<param name="Ширина">500 мм</param>
+<param name="Коробка">6 роликов</param>
+<param name="Отгрузка">по весу нетто ролика</param>
+<param name="Вариант">Ролик 2,0 кг</param>
+<param name="Единица продажи">ролик</param>
 </offer>
 <offer id="ST-HM-18" available="true">
 <name>Стрейч-плёнка ручная, вторичный микс, 23–25 мкм, 500 мм, Ролик 1,8 кг</name>
@@ -44,8 +87,22 @@
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hm.webp</picture>
-<description>Смесь первичного и вторичного сырья — баланс цены и прочности для складской обмотки.</description>
-<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Смесь первичного и вторичного сырья — баланс цены и прочности для складской обмотки. Стрейч-плёнка ручная, вторичный микс, 23–25 мкм, 500 мм — поставляем оптом с завода по Москве и Московской области. Основные параметры: толщина 23–25 мкм. Варианты: 2,0 кг; 1,8 кг. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: обмотка паллет на складах и в логистике; фиксация груза при перевозке; защита товара от пыли и влаги.</description>
+<sales_notes>Мин. партия от 10 коробок (60 роликов)</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>1.8</weight>
+<param name="Тип">Ручная (паллетная)</param>
+<param name="Сырьё">Вторичное микс</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Толщина">23–25 мкм</param>
+<param name="Ширина">500 мм</param>
+<param name="Коробка">6 роликов</param>
+<param name="Отгрузка">по весу нетто ролика</param>
+<param name="Вариант">Ролик 1,8 кг</param>
+<param name="Единица продажи">ролик</param>
 </offer>
 <offer id="ST-HS-20" available="true">
 <name>Стрейч-плёнка ручная, вторичный, 23–25 мкм, 500 мм, Ролик 2,0 кг</name>
@@ -54,8 +111,22 @@
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hs.webp</picture>
-<description>Самый доступный вариант для внутренней логистики и черновой обмотки.</description>
-<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Самый доступный вариант для внутренней логистики и черновой обмотки. Стрейч-плёнка ручная, вторичный, 23–25 мкм, 500 мм — поставляем оптом с завода по Москве и Московской области. Основные параметры: толщина 23–25 мкм. Варианты: 2,0 кг; 1,8 кг. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: обмотка паллет на складах и в логистике; фиксация груза при перевозке; защита товара от пыли и влаги.</description>
+<sales_notes>Мин. партия от 10 коробок (60 роликов)</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2</weight>
+<param name="Тип">Ручная (паллетная)</param>
+<param name="Сырьё">Вторичное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Толщина">23–25 мкм</param>
+<param name="Ширина">500 мм</param>
+<param name="Коробка">6 роликов</param>
+<param name="Отгрузка">по весу нетто ролика</param>
+<param name="Вариант">Ролик 2,0 кг</param>
+<param name="Единица продажи">ролик</param>
 </offer>
 <offer id="ST-HS-18" available="true">
 <name>Стрейч-плёнка ручная, вторичный, 23–25 мкм, 500 мм, Ролик 1,8 кг</name>
@@ -64,8 +135,22 @@
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hs.webp</picture>
-<description>Самый доступный вариант для внутренней логистики и черновой обмотки.</description>
-<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Самый доступный вариант для внутренней логистики и черновой обмотки. Стрейч-плёнка ручная, вторичный, 23–25 мкм, 500 мм — поставляем оптом с завода по Москве и Московской области. Основные параметры: толщина 23–25 мкм. Варианты: 2,0 кг; 1,8 кг. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: обмотка паллет на складах и в логистике; фиксация груза при перевозке; защита товара от пыли и влаги.</description>
+<sales_notes>Мин. партия от 10 коробок (60 роликов)</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>1.8</weight>
+<param name="Тип">Ручная (паллетная)</param>
+<param name="Сырьё">Вторичное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Толщина">23–25 мкм</param>
+<param name="Ширина">500 мм</param>
+<param name="Коробка">6 роликов</param>
+<param name="Отгрузка">по весу нетто ролика</param>
+<param name="Вариант">Ролик 1,8 кг</param>
+<param name="Единица продажи">ролик</param>
 </offer>
 <offer id="ST-HB-20" available="true">
 <name>Стрейч-плёнка ручная, вторичный чёрный, 23–25 мкм, 500 мм, Ролик 2,0 кг</name>
@@ -74,8 +159,22 @@
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hb.webp</picture>
-<description>Непрозрачная плёнка: скрывает содержимое паллеты и защищает от солнца.</description>
-<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Непрозрачная плёнка: скрывает содержимое паллеты и защищает от солнца. Стрейч-плёнка ручная, вторичный чёрный, 23–25 мкм, 500 мм — поставляем оптом с завода по Москве и Московской области. Основные параметры: толщина 23–25 мкм. Варианты: 2,0 кг; 1,8 кг. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: обмотка паллет на складах и в логистике; фиксация груза при перевозке; защита товара от пыли и влаги.</description>
+<sales_notes>Мин. партия от 10 коробок (60 роликов)</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2</weight>
+<param name="Тип">Ручная (паллетная)</param>
+<param name="Сырьё">Вторичное</param>
+<param name="Цвет">Чёрный</param>
+<param name="Толщина">23–25 мкм</param>
+<param name="Ширина">500 мм</param>
+<param name="Коробка">6 роликов</param>
+<param name="Отгрузка">по весу нетто ролика</param>
+<param name="Вариант">Ролик 2,0 кг</param>
+<param name="Единица продажи">ролик</param>
 </offer>
 <offer id="ST-HB-18" available="true">
 <name>Стрейч-плёнка ручная, вторичный чёрный, 23–25 мкм, 500 мм, Ролик 1,8 кг</name>
@@ -84,8 +183,22 @@
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-hb.webp</picture>
-<description>Непрозрачная плёнка: скрывает содержимое паллеты и защищает от солнца.</description>
-<sales_notes>Опт. Мин. партия: от 10 коробок (60 роликов)</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Непрозрачная плёнка: скрывает содержимое паллеты и защищает от солнца. Стрейч-плёнка ручная, вторичный чёрный, 23–25 мкм, 500 мм — поставляем оптом с завода по Москве и Московской области. Основные параметры: толщина 23–25 мкм. Варианты: 2,0 кг; 1,8 кг. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: обмотка паллет на складах и в логистике; фиксация груза при перевозке; защита товара от пыли и влаги.</description>
+<sales_notes>Мин. партия от 10 коробок (60 роликов)</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>1.8</weight>
+<param name="Тип">Ручная (паллетная)</param>
+<param name="Сырьё">Вторичное</param>
+<param name="Цвет">Чёрный</param>
+<param name="Толщина">23–25 мкм</param>
+<param name="Ширина">500 мм</param>
+<param name="Коробка">6 роликов</param>
+<param name="Отгрузка">по весу нетто ролика</param>
+<param name="Вариант">Ролик 1,8 кг</param>
+<param name="Единица продажи">ролик</param>
 </offer>
 <offer id="ST-MP" available="true">
 <name>Стрейч-плёнка машинная, первичный, 20–23 мкм, 500 мм, Цена за 1 кг</name>
@@ -94,8 +207,21 @@
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-mp.webp</picture>
-<description>Для паллетоупаковщиков: первичное сырьё, стабильное преднатяжение.</description>
-<sales_notes>Опт. Мин. партия: от 20 роликов (от 240 кг)</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Для паллетоупаковщиков: первичное сырьё, стабильное преднатяжение. Стрейч-плёнка машинная, первичный, 20–23 мкм, 500 мм — поставляем оптом с завода по Москве и Московской области. Основные параметры: толщина 20–23 мкм. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: паллетоупаковщики (паллетообмотчики); склады и производства с большим потоком паллет.</description>
+<sales_notes>Мин. партия от 20 роликов (от 240 кг)</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Тип">Машинная</param>
+<param name="Сырьё">Первичное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Толщина">20–23 мкм</param>
+<param name="Ширина">500 мм</param>
+<param name="Вес ролика">12–24 кг</param>
+<param name="Отгрузка">по весу нетто ролика</param>
+<param name="Вариант">Цена за 1 кг</param>
+<param name="Единица продажи">кг</param>
 </offer>
 <offer id="ST-MS" available="true">
 <name>Стрейч-плёнка машинная, вторичный, 23–25 мкм, 500 мм, Цена за 1 кг</name>
@@ -104,821 +230,1930 @@
 <currencyId>RUB</currencyId>
 <categoryId>1</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/gen/st-ms.webp</picture>
-<description>Экономичная машинная плёнка для внутренней логистики.</description>
-<sales_notes>Опт. Мин. партия: от 20 роликов (от 240 кг)</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Экономичная машинная плёнка для внутренней логистики. Стрейч-плёнка машинная, вторичный, 23–25 мкм, 500 мм — поставляем оптом с завода по Москве и Московской области. Основные параметры: толщина 23–25 мкм. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: паллетоупаковщики (паллетообмотчики); склады и производства с большим потоком паллет.</description>
+<sales_notes>Мин. партия от 20 роликов (от 240 кг)</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Тип">Машинная</param>
+<param name="Сырьё">Вторичное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Толщина">23–25 мкм</param>
+<param name="Ширина">500 мм</param>
+<param name="Вес ролика">12–24 кг</param>
+<param name="Отгрузка">по весу нетто ролика</param>
+<param name="Вариант">Цена за 1 кг</param>
+<param name="Единица продажи">кг</param>
 </offer>
 <offer id="NZ-A-70" available="true">
 <name>Ветро-влагозащитная мембрана НАНОИЗОЛ A, Рулон 70 м², 44 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-a/</url>
 <price>1547</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°. Ветро-влагозащитная мембрана НАНОИЗОЛ A — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 72 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>4.7</weight>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">72 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">160 / 110 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3500 г/м²·сут</param>
+<param name="Водоупорность">350 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-A-35" available="true">
 <name>Ветро-влагозащитная мембрана НАНОИЗОЛ A, Рулон 35 м², 22 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-a/</url>
 <price>806</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°. Ветро-влагозащитная мембрана НАНОИЗОЛ A — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 72 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.5</weight>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">72 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">160 / 110 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3500 г/м²·сут</param>
+<param name="Водоупорность">350 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-A-70K" available="true">
 <name>Ветро-влагозащитная мембрана НАНОИЗОЛ A, Рулон 70 м² с клеевой полосой</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-a/</url>
 <price>2374</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-a-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Паропроницаемая мембрана из полипропилена: защищает утеплитель от ветра, конденсата и протечек кровли. Вентфасады, каркасные стены, скатные кровли от 35°. Ветро-влагозащитная мембрана НАНОИЗОЛ A — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 72 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">72 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">160 / 110 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3500 г/м²·сут</param>
+<param name="Водоупорность">350 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м² с клеевой полосой</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-AB-70" available="true">
 <name>Ветрозащита НАНОИЗОЛ A black, чёрная, Рулон 70 м²</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-ab/</url>
 <price>1815</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-ab-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Ветрозащитная мембрана чёрного цвета — для фасадных систем, где мембрана видна в зазорах облицовки.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Ветрозащитная мембрана чёрного цвета — для фасадных систем, где мембрана видна в зазорах облицовки. Ветрозащита НАНОИЗОЛ A black, чёрная — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 72 г/м², ширина рулона 1,6 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">72 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">160 / 110 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3500 г/м²·сут</param>
+<param name="Водоупорность">350 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Цвет">Чёрный</param>
+<param name="Вариант">Рулон 70 м²</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-B-70" available="true">
 <name>Пароизоляция НАНОИЗОЛ B, Рулон 70 м², 44 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-b/</url>
 <price>1129</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения. Пароизоляция НАНОИЗОЛ B — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 50 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>3.5</weight>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">50 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">109 / 86 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-B-35" available="true">
 <name>Пароизоляция НАНОИЗОЛ B, Рулон 35 м², 22 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-b/</url>
 <price>597</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения. Пароизоляция НАНОИЗОЛ B — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 50 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>1.8</weight>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">50 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">109 / 86 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-B-70K" available="true">
 <name>Пароизоляция НАНОИЗОЛ B, Рулон 70 м² с клеевой полосой</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-b/</url>
 <price>1728</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-b-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Двухслойная паронепроницаемая мембрана с антиконденсатным слоем: защищает утеплитель от пара изнутри помещения. Пароизоляция НАНОИЗОЛ B — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 50 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">50 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">109 / 86 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м² с клеевой полосой</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-C-70" available="true">
 <name>Гидро-пароизоляция НАНОИЗОЛ C, Рулон 70 м², 44 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-c/</url>
 <price>1736</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-c-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Универсальная гидро-пароизоляция для неутеплённых скатных крыш, полов на влажных основаниях и цокольных перекрытий.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-c-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-c-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Универсальная гидро-пароизоляция для неутеплённых скатных крыш, полов на влажных основаниях и цокольных перекрытий. Гидро-пароизоляция НАНОИЗОЛ C — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 70 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>5</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">70 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">169 / 91 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-C-35" available="true">
 <name>Гидро-пароизоляция НАНОИЗОЛ C, Рулон 35 м², 22 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-c/</url>
 <price>901</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-c-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Универсальная гидро-пароизоляция для неутеплённых скатных крыш, полов на влажных основаниях и цокольных перекрытий.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-c-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-c-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Универсальная гидро-пароизоляция для неутеплённых скатных крыш, полов на влажных основаниях и цокольных перекрытий. Гидро-пароизоляция НАНОИЗОЛ C — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 70 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.6</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">70 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">169 / 91 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-D-70" available="true">
 <name>Гидро-пароизоляция повышенной прочности НАНОИЗОЛ D, Рулон 70 м², 46 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-d/</url>
 <price>1840</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку. Гидро-пароизоляция повышенной прочности НАНОИЗОЛ D — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 65 г/м², ширина рулона 1,5 м. Варианты: 70 м², 46 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>5</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">65 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">1060 / 880 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">4–6 мес.</param>
+<param name="Вариант">Рулон 70 м², 46 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-D-35" available="true">
 <name>Гидро-пароизоляция повышенной прочности НАНОИЗОЛ D, Рулон 35 м², 22 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-d/</url>
 <price>954</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку. Гидро-пароизоляция повышенной прочности НАНОИЗОЛ D — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 65 г/м², ширина рулона 1,5 м. Варианты: 70 м², 46 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.6</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">65 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">1060 / 880 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">4–6 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-D-70K" available="true">
 <name>Гидро-пароизоляция повышенной прочности НАНОИЗОЛ D, Рулон 70 м² с клеевой полосой</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-d/</url>
 <price>2470</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-d-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Тканое полотно, ламинированное плёнкой высокой плотности. Подходит как временная кровля и гидроизоляция под стяжку. Гидро-пароизоляция повышенной прочности НАНОИЗОЛ D — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 65 г/м², ширина рулона 1,5 м. Варианты: 70 м², 46 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">65 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">1060 / 880 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">4–6 мес.</param>
+<param name="Вариант">Рулон 70 м² с клеевой полосой</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-FS-70" available="true">
 <name>Отражающая гидро-пароизоляция НАНОИЗОЛ FS, Рулон 70 м², 44 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-fs/</url>
 <price>2642</price>
 <currencyId>RUB</currencyId>
 <categoryId>3</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fs-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Трёхслойная паронепроницаемая мембрана с отражающим слоем — снижает теплопотери через ограждающие конструкции.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fs-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fs-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Трёхслойная паронепроницаемая мембрана с отражающим слоем — снижает теплопотери через ограждающие конструкции. Отражающая гидро-пароизоляция НАНОИЗОЛ FS — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 70 г/м², ширина рулона 1,6 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: бани, сауны и помещения с высокой влажностью; утепление стен и потолков изнутри; возврат тепла в помещение.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>4.9</weight>
+<param name="Назначение">Отражающая пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">70 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">250 / 280 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-FB-30" available="true">
 <name>Пароизоляция для бань и саун НАНОИЗОЛ FB, Рулон 30 м², 25 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-fb/</url>
 <price>2282</price>
 <currencyId>RUB</currencyId>
 <categoryId>3</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fb-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Отражающая пароизоляция для бань, саун и помещений с высокой влажностью.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fb-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fb-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Отражающая пароизоляция для бань, саун и помещений с высокой влажностью. Пароизоляция для бань и саун НАНОИЗОЛ FB — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 141 г/м², ширина рулона 1,2 м. Варианты: 30 м², 25 м; 18 м², 15 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: бани, сауны и помещения с высокой влажностью; утепление стен и потолков изнутри; возврат тепла в помещение.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.9</weight>
+<param name="Назначение">Отражающая пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">141 г/м²</param>
+<param name="Ширина рулона">1,2 м</param>
+<param name="Разрывная нагрузка, длина / ширина">345 / 336 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="Вариант">Рулон 30 м², 25 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-FB-18" available="true">
 <name>Пароизоляция для бань и саун НАНОИЗОЛ FB, Рулон 18 м², 15 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-fb/</url>
 <price>1368</price>
 <currencyId>RUB</currencyId>
 <categoryId>3</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fb-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Отражающая пароизоляция для бань, саун и помещений с высокой влажностью.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fb-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-fb-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Отражающая пароизоляция для бань, саун и помещений с высокой влажностью. Пароизоляция для бань и саун НАНОИЗОЛ FB — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 141 г/м², ширина рулона 1,2 м. Варианты: 30 м², 25 м; 18 м², 15 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: бани, сауны и помещения с высокой влажностью; утепление стен и потолков изнутри; возврат тепла в помещение.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>1.8</weight>
+<param name="Назначение">Отражающая пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">141 г/м²</param>
+<param name="Ширина рулона">1,2 м</param>
+<param name="Разрывная нагрузка, длина / ширина">345 / 336 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="Вариант">Рулон 18 м², 15 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-SM-70" available="true">
 <name>Супердиффузионная мембрана НАНОИЗОЛ SM, двухслойная, Рулон 70 м², 46 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-sm/</url>
 <price>3851</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sm-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Диффузионная мембрана, армированная нетканым полипропиленом: защищает от ветра, влаги и подкровельного конденсата и выводит пар.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sm-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sm-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Диффузионная мембрана, армированная нетканым полипропиленом: защищает от ветра, влаги и подкровельного конденсата и выводит пар. Супердиффузионная мембрана НАНОИЗОЛ SM, двухслойная — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 65 г/м², ширина рулона 1,5 м. Варианты: 70 м², 46 м; 35 м², 23 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>4.6</weight>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">65 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">130 / 95 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1250 г/м²·сут</param>
+<param name="Водоупорность">более 1500 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м², 46 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-SM-35" available="true">
 <name>Супердиффузионная мембрана НАНОИЗОЛ SM, двухслойная, Рулон 35 м², 23 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-sm/</url>
 <price>1959</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sm-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Диффузионная мембрана, армированная нетканым полипропиленом: защищает от ветра, влаги и подкровельного конденсата и выводит пар.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sm-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sm-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Диффузионная мембрана, армированная нетканым полипропиленом: защищает от ветра, влаги и подкровельного конденсата и выводит пар. Супердиффузионная мембрана НАНОИЗОЛ SM, двухслойная — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 65 г/м², ширина рулона 1,5 м. Варианты: 70 м², 46 м; 35 м², 23 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.2</weight>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">65 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">130 / 95 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1250 г/м²·сут</param>
+<param name="Водоупорность">более 1500 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 35 м², 23 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-SD-70" available="true">
 <name>Супердиффузионная мембрана НАНОИЗОЛ SD, трёхслойная, Рулон 70 м², 46 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-sd/</url>
 <price>4509</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов. Супердиффузионная мембрана НАНОИЗОЛ SD, трёхслойная — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 90 г/м², ширина рулона 1,5 м. Варианты: 70 м², 46 м; 35 м², 23 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>6.8</weight>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">90 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">163 / 101 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1500 г/м²·сут</param>
+<param name="Водоупорность">более 1500 мм вод. ст.</param>
+<param name="УФ-стабильность">3–4 мес.</param>
+<param name="Вариант">Рулон 70 м², 46 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-SD-35" available="true">
 <name>Супердиффузионная мембрана НАНОИЗОЛ SD, трёхслойная, Рулон 35 м², 23 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-sd/</url>
 <price>2284</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов. Супердиффузионная мембрана НАНОИЗОЛ SD, трёхслойная — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 90 г/м², ширина рулона 1,5 м. Варианты: 70 м², 46 м; 35 м², 23 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>3.4</weight>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">90 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">163 / 101 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1500 г/м²·сут</param>
+<param name="Водоупорность">более 1500 мм вод. ст.</param>
+<param name="УФ-стабильность">3–4 мес.</param>
+<param name="Вариант">Рулон 35 м², 23 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-SD-70K" available="true">
 <name>Супердиффузионная мембрана НАНОИЗОЛ SD, трёхслойная, Рулон 70 м² с клеевой полосой</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-sd/</url>
 <price>4487</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sd-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Трёхслойная мембрана для кровель любого типа, стен с наружным утеплением и вентфасадов. Супердиффузионная мембрана НАНОИЗОЛ SD, трёхслойная — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 90 г/м², ширина рулона 1,5 м. Варианты: 70 м², 46 м; 35 м², 23 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">НАНОИЗОЛ</param>
+<param name="Плотность">90 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">163 / 101 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1500 г/м²·сут</param>
+<param name="Водоупорность">более 1500 мм вод. ст.</param>
+<param name="УФ-стабильность">3–4 мес.</param>
+<param name="Вариант">Рулон 70 м² с клеевой полосой</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZL-A-70" available="true">
 <name>Ветрозащита НАНОИЗОЛ Лайт A, Рулон 70 м², 44 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzl-a/</url>
 <price>1045</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-a-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Эконом-версия ветрозащитной мембраны для частного строительства.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-a-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Эконом-версия ветрозащитной мембраны для частного строительства. Ветрозащита НАНОИЗОЛ Лайт A — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 36 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.8</weight>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">НАНОИЗОЛ Лайт</param>
+<param name="Плотность">36 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">126 / 87 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3500 г/м²·сут</param>
+<param name="Водоупорность">250 мм вод. ст.</param>
+<param name="УФ-стабильность">1–2 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZL-A-35" available="true">
 <name>Ветрозащита НАНОИЗОЛ Лайт A, Рулон 35 м², 22 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzl-a/</url>
 <price>556</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-a-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Эконом-версия ветрозащитной мембраны для частного строительства.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-a-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Эконом-версия ветрозащитной мембраны для частного строительства. Ветрозащита НАНОИЗОЛ Лайт A — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 36 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>1.4</weight>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">НАНОИЗОЛ Лайт</param>
+<param name="Плотность">36 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">126 / 87 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3500 г/м²·сут</param>
+<param name="Водоупорность">250 мм вод. ст.</param>
+<param name="УФ-стабильность">1–2 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZL-B-70" available="true">
 <name>Пароизоляция НАНОИЗОЛ Лайт B, Рулон 70 м², 44 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzl-b/</url>
 <price>792</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-b-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Эконом-пароизоляция с антиконденсатным слоем.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-b-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Эконом-пароизоляция с антиконденсатным слоем. Пароизоляция НАНОИЗОЛ Лайт B — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 30 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2</weight>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Лайт</param>
+<param name="Плотность">30 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">81 / 59 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">1–2 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZL-B-35" available="true">
 <name>Пароизоляция НАНОИЗОЛ Лайт B, Рулон 35 м², 22 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzl-b/</url>
 <price>429</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-b-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Эконом-пароизоляция с антиконденсатным слоем.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-b-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Эконом-пароизоляция с антиконденсатным слоем. Пароизоляция НАНОИЗОЛ Лайт B — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 30 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>1</weight>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Лайт</param>
+<param name="Плотность">30 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">81 / 59 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">1–2 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZL-C-70" available="true">
 <name>Гидро-пароизоляция НАНОИЗОЛ Лайт C, Рулон 70 м², 44 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzl-c/</url>
 <price>1045</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-c-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Эконом-гидро-пароизоляция для неутеплённых крыш и полов.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-c-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Эконом-гидро-пароизоляция для неутеплённых крыш и полов. Гидро-пароизоляция НАНОИЗОЛ Лайт C — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 50 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>4.1</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Лайт</param>
+<param name="Плотность">50 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">129 / 72 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">1–2 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZL-C-35" available="true">
 <name>Гидро-пароизоляция НАНОИЗОЛ Лайт C, Рулон 35 м², 22 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzl-c/</url>
 <price>556</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-c-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Эконом-гидро-пароизоляция для неутеплённых крыш и полов.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-c-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Эконом-гидро-пароизоляция для неутеплённых крыш и полов. Гидро-пароизоляция НАНОИЗОЛ Лайт C — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 50 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.1</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Лайт</param>
+<param name="Плотность">50 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">129 / 72 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">1–2 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZL-D-70" available="true">
 <name>Гидро-пароизоляция повышенной прочности НАНОИЗОЛ Лайт D, Рулон 70 м², 44 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzl-d/</url>
 <price>1652</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-d-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Тканая гидро-пароизоляция в эконом-линейке.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-d-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Тканая гидро-пароизоляция в эконом-линейке. Гидро-пароизоляция повышенной прочности НАНОИЗОЛ Лайт D — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 60 г/м², ширина рулона 1,5 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>4.3</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Лайт</param>
+<param name="Плотность">60 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">850 / 680 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">3–4 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZL-D-35" available="true">
 <name>Гидро-пароизоляция повышенной прочности НАНОИЗОЛ Лайт D, Рулон 35 м², 22 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzl-d/</url>
 <price>859</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-d-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Тканая гидро-пароизоляция в эконом-линейке.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzl-d-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Тканая гидро-пароизоляция в эконом-линейке. Гидро-пароизоляция повышенной прочности НАНОИЗОЛ Лайт D — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 60 г/м², ширина рулона 1,5 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.2</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Лайт</param>
+<param name="Плотность">60 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">850 / 680 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">3–4 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="GT-A-70" available="true">
 <name>Ветро-влагозащитная мембрана GRANDTEX A, Рулон 70 м², 44 м</name>
+<vendor>GRANDTEX</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/gt-a/</url>
 <price>1334</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-a-1.webp</picture>
-<vendor>GRANDTEX</vendor>
-<description>Паропроницаемая мембрана для защиты утеплителя от ветра, влаги и конденсата.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Паропроницаемая мембрана для защиты утеплителя от ветра, влаги и конденсата. Ветро-влагозащитная мембрана GRANDTEX A — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 55 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>3.1</weight>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">GRANDTEX</param>
+<param name="Плотность">55 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">140 / 116 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3500 г/м²·сут</param>
+<param name="Водоупорность">250 мм вод. ст.</param>
+<param name="УФ-стабильность">2 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="GT-A-35" available="true">
 <name>Ветро-влагозащитная мембрана GRANDTEX A, Рулон 35 м², 22 м</name>
+<vendor>GRANDTEX</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/gt-a/</url>
 <price>701</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-a-1.webp</picture>
-<vendor>GRANDTEX</vendor>
-<description>Паропроницаемая мембрана для защиты утеплителя от ветра, влаги и конденсата.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Паропроницаемая мембрана для защиты утеплителя от ветра, влаги и конденсата. Ветро-влагозащитная мембрана GRANDTEX A — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 55 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>1.5</weight>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">GRANDTEX</param>
+<param name="Плотность">55 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">140 / 116 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3500 г/м²·сут</param>
+<param name="Водоупорность">250 мм вод. ст.</param>
+<param name="УФ-стабильность">2 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="GT-B-70" available="true">
 <name>Пароизоляция GRANDTEX B, Рулон 70 м², 44 м</name>
+<vendor>GRANDTEX</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/gt-b/</url>
 <price>1082</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-b-1.webp</picture>
-<vendor>GRANDTEX</vendor>
-<description>Двухслойная пароизоляция: гладкая сторона к утеплителю, шероховатая — в помещение, с вентзазором.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-b-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Двухслойная пароизоляция: гладкая сторона к утеплителю, шероховатая — в помещение, с вентзазором. Пароизоляция GRANDTEX B — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 40 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.5</weight>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">GRANDTEX</param>
+<param name="Плотность">40 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">90 / 87 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="GT-B-35" available="true">
 <name>Пароизоляция GRANDTEX B, Рулон 35 м², 22 м</name>
+<vendor>GRANDTEX</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/gt-b/</url>
 <price>574</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-b-1.webp</picture>
-<vendor>GRANDTEX</vendor>
-<description>Двухслойная пароизоляция: гладкая сторона к утеплителю, шероховатая — в помещение, с вентзазором.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-b-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Двухслойная пароизоляция: гладкая сторона к утеплителю, шероховатая — в помещение, с вентзазором. Пароизоляция GRANDTEX B — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 40 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>1.3</weight>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">GRANDTEX</param>
+<param name="Плотность">40 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">90 / 87 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="GT-C-70" available="true">
 <name>Гидро-пароизоляция GRANDTEX C, Рулон 70 м², 44 м</name>
+<vendor>GRANDTEX</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/gt-c/</url>
 <price>1485</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-c-1.webp</picture>
-<vendor>GRANDTEX</vendor>
-<description>Для неутеплённых и плоских кровель, стяжек в подвалах и под ламинат.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-c-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Для неутеплённых и плоских кровель, стяжек в подвалах и под ламинат. Гидро-пароизоляция GRANDTEX C — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 50 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>3.1</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">GRANDTEX</param>
+<param name="Плотность">50 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">139 / 89 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="GT-C-35" available="true">
 <name>Гидро-пароизоляция GRANDTEX C, Рулон 35 м², 22 м</name>
+<vendor>GRANDTEX</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/gt-c/</url>
 <price>776</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-c-1.webp</picture>
-<vendor>GRANDTEX</vendor>
-<description>Для неутеплённых и плоских кровель, стяжек в подвалах и под ламинат.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-c-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Для неутеплённых и плоских кровель, стяжек в подвалах и под ламинат. Гидро-пароизоляция GRANDTEX C — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 50 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>1.5</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">GRANDTEX</param>
+<param name="Плотность">50 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">139 / 89 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="GT-D-70" available="true">
 <name>Гидро-пароизоляция повышенной прочности GRANDTEX D, Рулон 70 м², 44 м</name>
+<vendor>GRANDTEX</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/gt-d/</url>
 <price>1840</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-d-1.webp</picture>
-<vendor>GRANDTEX</vendor>
-<description>Тканое полипропиленовое полотно с ламинацией; подходит как временная кровля.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Тканое полипропиленовое полотно с ламинацией; подходит как временная кровля. Гидро-пароизоляция повышенной прочности GRANDTEX D — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 65 г/м², ширина рулона 1,5 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>4.3</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">GRANDTEX</param>
+<param name="Плотность">65 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">930 / 760 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">4 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="GT-D-35" available="true">
 <name>Гидро-пароизоляция повышенной прочности GRANDTEX D, Рулон 35 м², 22 м</name>
+<vendor>GRANDTEX</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/gt-d/</url>
 <price>954</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-d-1.webp</picture>
-<vendor>GRANDTEX</vendor>
-<description>Тканое полипропиленовое полотно с ламинацией; подходит как временная кровля.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Тканое полипропиленовое полотно с ламинацией; подходит как временная кровля. Гидро-пароизоляция повышенной прочности GRANDTEX D — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 65 г/м², ширина рулона 1,5 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.2</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">GRANDTEX</param>
+<param name="Плотность">65 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">930 / 760 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">4 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="GT-AM-70" available="true">
 <name>Супердиффузионная мембрана GRANDTEX AM, двухслойная, Рулон 70 м², 44 м</name>
+<vendor>GRANDTEX</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/gt-am/</url>
 <price>3851</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-am-1.webp</picture>
-<vendor>GRANDTEX</vendor>
-<description>Диффузионная мембрана, армированная нетканым полотном, выдерживает давление более 2 м вод. ст.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-am-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Диффузионная мембрана, армированная нетканым полотном, выдерживает давление более 2 м вод. ст. Супердиффузионная мембрана GRANDTEX AM, двухслойная — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 65 г/м², ширина рулона 1,5 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>4.6</weight>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">GRANDTEX</param>
+<param name="Плотность">65 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">130 / 95 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1250 г/м²·сут</param>
+<param name="Водоупорность">более 1500 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="GT-AM-35" available="true">
 <name>Супердиффузионная мембрана GRANDTEX AM, двухслойная, Рулон 35 м², 22 м</name>
+<vendor>GRANDTEX</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/gt-am/</url>
 <price>1959</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-am-1.webp</picture>
-<vendor>GRANDTEX</vendor>
-<description>Диффузионная мембрана, армированная нетканым полотном, выдерживает давление более 2 м вод. ст.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/gt-am-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Диффузионная мембрана, армированная нетканым полотном, выдерживает давление более 2 м вод. ст. Супердиффузионная мембрана GRANDTEX AM, двухслойная — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 65 г/м², ширина рулона 1,5 м. Варианты: 70 м², 44 м; 35 м², 22 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.3</weight>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">GRANDTEX</param>
+<param name="Плотность">65 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">130 / 95 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1250 г/м²·сут</param>
+<param name="Водоупорность">более 1500 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-A-70" available="true">
 <name>Ветро-влагозащитная мембрана НАНОИЗОЛ A Professional, Рулон 70 м², 44 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-a/</url>
 <price>3022</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста. Ветро-влагозащитная мембрана НАНОИЗОЛ A Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 100 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>6.8</weight>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">100 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">197 / 153 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3000 г/м²·сут</param>
+<param name="Водоупорность">350 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-A-35" available="true">
 <name>Ветро-влагозащитная мембрана НАНОИЗОЛ A Professional, Рулон 35 м², 22 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-a/</url>
 <price>1544</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста. Ветро-влагозащитная мембрана НАНОИЗОЛ A Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 100 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">100 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">197 / 153 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3000 г/м²·сут</param>
+<param name="Водоупорность">350 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-A-70K" available="true">
 <name>Ветро-влагозащитная мембрана НАНОИЗОЛ A Professional, Рулон 70 м² с клеевой полосой</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-a/</url>
 <price>3414</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-a-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Плотная однослойная мембрана с разметкой на лицевой стороне для точного нахлёста. Ветро-влагозащитная мембрана НАНОИЗОЛ A Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 100 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">100 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">197 / 153 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3000 г/м²·сут</param>
+<param name="Водоупорность">350 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м² с клеевой полосой</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-AB-70" available="true">
 <name>Ветрозащита НАНОИЗОЛ A Professional black, чёрная, Рулон 70 м²</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-ab/</url>
 <price>2929</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-ab-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Чёрная версия мембраны A Professional для открытых фасадных систем.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-ab-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Чёрная версия мембраны A Professional для открытых фасадных систем. Ветрозащита НАНОИЗОЛ A Professional black, чёрная — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 100 г/м², ширина рулона 1,6 м. Варианты: 70 м²; 35 м². Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">100 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">197 / 153 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3000 г/м²·сут</param>
+<param name="Водоупорность">350 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Цвет">Чёрный</param>
+<param name="Вариант">Рулон 70 м²</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-AB-35" available="true">
 <name>Ветрозащита НАНОИЗОЛ A Professional black, чёрная, Рулон 35 м²</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-ab/</url>
 <price>1498</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-ab-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Чёрная версия мембраны A Professional для открытых фасадных систем.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-ab-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Чёрная версия мембраны A Professional для открытых фасадных систем. Ветрозащита НАНОИЗОЛ A Professional black, чёрная — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 100 г/м², ширина рулона 1,6 м. Варианты: 70 м²; 35 м². Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — поверх утеплителя под контробрешётку; каркасные стены и вентилируемые фасады — по внешней стороне утеплителя; защита минеральной ваты от выдувания волокон ветром.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Ветрозащита</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">100 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">197 / 153 Н/5 см</param>
+<param name="Паропроницаемость">не менее 3000 г/м²·сут</param>
+<param name="Водоупорность">350 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Цвет">Чёрный</param>
+<param name="Вариант">Рулон 35 м²</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-B-70" available="true">
 <name>Пароизоляция НАНОИЗОЛ B Professional, Рулон 70 м², 44 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-b/</url>
 <price>2225</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Армированная двухслойная пароизоляция с разметкой для нахлёста.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Армированная двухслойная пароизоляция с разметкой для нахлёста. Пароизоляция НАНОИЗОЛ B Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 75 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>5.1</weight>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">75 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">130 / 107 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-B-35" available="true">
 <name>Пароизоляция НАНОИЗОЛ B Professional, Рулон 35 м², 22 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-b/</url>
 <price>1146</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Армированная двухслойная пароизоляция с разметкой для нахлёста.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Армированная двухслойная пароизоляция с разметкой для нахлёста. Пароизоляция НАНОИЗОЛ B Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 75 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.6</weight>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">75 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">130 / 107 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-B-70K" available="true">
 <name>Пароизоляция НАНОИЗОЛ B Professional, Рулон 70 м² с клеевой полосой</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-b/</url>
 <price>2617</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Армированная двухслойная пароизоляция с разметкой для нахлёста.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-b-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Армированная двухслойная пароизоляция с разметкой для нахлёста. Пароизоляция НАНОИЗОЛ B Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 75 г/м², ширина рулона 1,6 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">75 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">130 / 107 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м² с клеевой полосой</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-D-70" available="true">
 <name>Гидро-пароизоляция НАНОИЗОЛ D Professional, Рулон 70 м², 46 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-d/</url>
 <price>2982</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой. Гидро-пароизоляция НАНОИЗОЛ D Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 95 г/м², ширина рулона 1,5 м. Варианты: 70 м², 46 м; 35 м², 23 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>7.1</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">95 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">1180 / 990 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">4–6 мес.</param>
+<param name="Вариант">Рулон 70 м², 46 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-D-35" available="true">
 <name>Гидро-пароизоляция НАНОИЗОЛ D Professional, Рулон 35 м², 23 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-d/</url>
 <price>1525</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой. Гидро-пароизоляция НАНОИЗОЛ D Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 95 г/м², ширина рулона 1,5 м. Варианты: 70 м², 46 м; 35 м², 23 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>3.6</weight>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">95 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">1180 / 990 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">4–6 мес.</param>
+<param name="Вариант">Рулон 35 м², 23 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-D-70K" available="true">
 <name>Гидро-пароизоляция НАНОИЗОЛ D Professional, Рулон 70 м² с клеевой полосой</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-d/</url>
 <price>3210</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-d-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Самая прочная гидро-пароизоляция линейки: тканое полотно с плёнкой высокой плотности и разметкой. Гидро-пароизоляция НАНОИЗОЛ D Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 95 г/м², ширина рулона 1,5 м. Варианты: 70 м², 46 м; 35 м², 23 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: неутеплённые скатные кровли — защита от конденсата и протечек; полы и перекрытия по деревянным лагам; гидроизоляция под стяжку и бетонные полы; временное укрытие конструкций во время стройки.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Гидро-пароизоляция</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">95 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">1180 / 990 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="УФ-стабильность">4–6 мес.</param>
+<param name="Вариант">Рулон 70 м² с клеевой полосой</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-SD-70" available="true">
 <name>Супердиффузионная мембрана НАНОИЗОЛ SD Professional, Рулон 70 м², 44 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-sd/</url>
 <price>5068</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость. Супердиффузионная мембрана НАНОИЗОЛ SD Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 130 г/м², ширина рулона 1,5 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>9.2</weight>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">130 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">240 / 130 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1500 г/м²·сут</param>
+<param name="Водоупорность">не менее 1500 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м², 44 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-SD-35" available="true">
 <name>Супердиффузионная мембрана НАНОИЗОЛ SD Professional, Рулон 35 м², 22 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-sd/</url>
 <price>2567</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость. Супердиффузионная мембрана НАНОИЗОЛ SD Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 130 г/м², ширина рулона 1,5 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>4.6</weight>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">130 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">240 / 130 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1500 г/м²·сут</param>
+<param name="Водоупорность">не менее 1500 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 35 м², 22 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZP-SD-70K" available="true">
 <name>Супердиффузионная мембрана НАНОИЗОЛ SD Professional, Рулон 70 м² с клеевой полосой</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nzp-sd/</url>
 <price>5464</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nzp-sd-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Трёхслойная мембрана на первичном спанбонде: высокая паропроницаемость, гидроупорность и воздухонепроницаемость. Супердиффузионная мембрана НАНОИЗОЛ SD Professional — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 130 г/м², ширина рулона 1,5 м. Варианты: 70 м², 44 м; 35 м², 22 м; 70 м² с клеевой полосой. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">НАНОИЗОЛ Professional</param>
+<param name="Плотность">130 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">240 / 130 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1500 г/м²·сут</param>
+<param name="Водоупорность">не менее 1500 мм вод. ст.</param>
+<param name="УФ-стабильность">2–3 мес.</param>
+<param name="Вариант">Рулон 70 м² с клеевой полосой</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="Q-E180-70" available="true">
 <name>Супердиффузионная мембрана QUATTRO EXPERT 180, Рулон 70 м², 46,6 м</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-e180/</url>
 <price>8091</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-e180-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Трёхслойная гидроизоляционная мембрана для экстремальных нагрузок.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-e180-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Трёхслойная гидроизоляционная мембрана для экстремальных нагрузок. Супердиффузионная мембрана QUATTRO EXPERT 180 — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 180 г/м², ширина рулона 1,5 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>12.6</weight>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">QUATTRO</param>
+<param name="Плотность">180 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">391 / 255 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1500 г/м²·сут</param>
+<param name="Водоупорность">более 1500 мм вод. ст., класс W1</param>
+<param name="УФ-стабильность">3 мес.</param>
+<param name="Группа горючести">Г4</param>
+<param name="Температура эксплуатации">−40…+120 °C</param>
+<param name="Sd">0,04 м</param>
+<param name="Вариант">Рулон 70 м², 46,6 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="Q-S150-70" available="true">
 <name>Супердиффузионная мембрана QUATTRO STANDART 150, Рулон 70 м², 46,6 м</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-s150/</url>
 <price>6980</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-s150-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Трёхслойная мембрана: функциональный слой защищён с двух сторон нетканым полотном.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-s150-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-s150-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Трёхслойная мембрана: функциональный слой защищён с двух сторон нетканым полотном. Супердиффузионная мембрана QUATTRO STANDART 150 — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 150 г/м², ширина рулона 1,5 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые скатные кровли — прямо по утеплителю; стены каркасных домов и вентилируемые фасады; реконструкция кровель, где нет места для второго вентзазора.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>11.8</weight>
+<param name="Назначение">Супердиффузионная мембрана</param>
+<param name="Линейка">QUATTRO</param>
+<param name="Плотность">150 г/м²</param>
+<param name="Ширина рулона">1,5 м</param>
+<param name="Разрывная нагрузка, длина / ширина">335 / 213 Н/5 см</param>
+<param name="Паропроницаемость">не менее 1500 г/м²·сут</param>
+<param name="Водоупорность">более 1500 мм вод. ст., класс W1</param>
+<param name="УФ-стабильность">3 мес.</param>
+<param name="Группа горючести">Г4</param>
+<param name="Температура эксплуатации">−40…+120 °C</param>
+<param name="Sd">0,02 м</param>
+<param name="Вариант">Рулон 70 м², 46,6 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="Q-IN-70" available="true">
 <name>Обеспыливающая мембрана QUATTRO INSIDE, Рулон 70 м²</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-in/</url>
 <price>2970</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
-<vendor>QUATTRO</vendor>
-<description>Паропроницаемая мембрана для внутренних перегородок: удерживает частицы утеплителя.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Паропроницаемая мембрана для внутренних перегородок: удерживает частицы утеплителя. Обеспыливающая мембрана QUATTRO INSIDE — поставляем оптом с завода по Москве и Московской области. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: межкомнатные перегородки с минеральной ватой; межэтажные перекрытия и потолки; защита помещения от волокон утеплителя.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Обеспыливающая мембрана</param>
+<param name="Линейка">QUATTRO</param>
+<param name="Вариант">Рулон 70 м²</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="Q-Y200-150" available="true">
 <name>Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм, Рулон 150 м², 3,2 × 46,9 м</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-y200/</url>
 <price>8814</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура. Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 180 г/м², ширина рулона 1,6 или 3,2 м, толщина 200 мкм. Варианты: 150 м², 3,2 × 46,9 м; 75 м²; 50 м², ширина 1,6 м; Для закладных, 0,6 × 50 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">QUATTRO</param>
+<param name="Плотность">180 г/м²</param>
+<param name="Ширина рулона">1,6 или 3,2 м</param>
+<param name="Разрывная нагрузка, длина / ширина">200 / 220 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="Толщина">200 мкм</param>
+<param name="Sd">не менее 150 м</param>
+<param name="Группа горючести">Г4</param>
+<param name="Температура эксплуатации">−40…+80 °C</param>
+<param name="Вариант">Рулон 150 м², 3,2 × 46,9 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="Q-Y200-75" available="true">
 <name>Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм, Рулон 75 м²</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-y200/</url>
 <price>4627</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура. Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 180 г/м², ширина рулона 1,6 или 3,2 м, толщина 200 мкм. Варианты: 150 м², 3,2 × 46,9 м; 75 м²; 50 м², ширина 1,6 м; Для закладных, 0,6 × 50 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">QUATTRO</param>
+<param name="Плотность">180 г/м²</param>
+<param name="Ширина рулона">1,6 или 3,2 м</param>
+<param name="Разрывная нагрузка, длина / ширина">200 / 220 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="Толщина">200 мкм</param>
+<param name="Sd">не менее 150 м</param>
+<param name="Группа горючести">Г4</param>
+<param name="Температура эксплуатации">−40…+80 °C</param>
+<param name="Вариант">Рулон 75 м²</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="Q-Y200-50" available="true">
 <name>Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм, Рулон 50 м², ширина 1,6 м</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-y200/</url>
 <price>3245</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура. Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 180 г/м², ширина рулона 1,6 или 3,2 м, толщина 200 мкм. Варианты: 150 м², 3,2 × 46,9 м; 75 м²; 50 м², ширина 1,6 м; Для закладных, 0,6 × 50 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">QUATTRO</param>
+<param name="Плотность">180 г/м²</param>
+<param name="Ширина рулона">1,6 или 3,2 м</param>
+<param name="Разрывная нагрузка, длина / ширина">200 / 220 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="Толщина">200 мкм</param>
+<param name="Sd">не менее 150 м</param>
+<param name="Группа горючести">Г4</param>
+<param name="Температура эксплуатации">−40…+80 °C</param>
+<param name="Вариант">Рулон 50 м², ширина 1,6 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="Q-Y200-Z" available="true">
 <name>Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм, Для закладных, 0,6 × 50 м</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-y200/</url>
 <price>1980</price>
 <currencyId>RUB</currencyId>
 <categoryId>2</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-2.webp</picture>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-y200-3.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Однослойная пароизоляция из первичного полиэтилена высокой плотности для герметичного пароизоляционного контура. Пароизоляция QUATTRO YELLOW 200, полиэтилен 200 мкм — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 180 г/м², ширина рулона 1,6 или 3,2 м, толщина 200 мкм. Варианты: 150 м², 3,2 × 46,9 м; 75 м²; 50 м², ширина 1,6 м; Для закладных, 0,6 × 50 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: утеплённые кровли и мансарды — с внутренней стороны утеплителя; каркасные стены, межэтажные и чердачные перекрытия; защита утеплителя от водяного пара из помещения.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Пароизоляция</param>
+<param name="Линейка">QUATTRO</param>
+<param name="Плотность">180 г/м²</param>
+<param name="Ширина рулона">1,6 или 3,2 м</param>
+<param name="Разрывная нагрузка, длина / ширина">200 / 220 Н/5 см</param>
+<param name="Паропроницаемость">не более 10 г/м²·сут (паронепроницаемая)</param>
+<param name="Толщина">200 мкм</param>
+<param name="Sd">не менее 150 м</param>
+<param name="Группа горючести">Г4</param>
+<param name="Температура эксплуатации">−40…+80 °C</param>
+<param name="Вариант">Для закладных, 0,6 × 50 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="Q-ET" available="true">
 <name>Лента QUATTRO EXPERT TAPE для диффузионных мембран, Рулон 60 мм × 25 м</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-et/</url>
 <price>1469</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-et-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Герметизация нахлёстов и примыканий диффузионных и ветрозащитных мембран, для наружных и внутренних работ, устойчива к УФ.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Герметизация нахлёстов и примыканий диффузионных и ветрозащитных мембран, для наружных и внутренних работ, устойчива к УФ. Лента QUATTRO EXPERT TAPE для диффузионных мембран — поставляем оптом с завода по Москве и Московской области. Основные параметры: рулон 60 мм × 25 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: Проклейка нахлёстов ветрозащитных и диффузионных мембран, примыканий к трубам и окнам..</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Для мембран</param>
+<param name="Тип">Односторонняя</param>
+<param name="Клей">Акрил</param>
+<param name="Размер рулона">60 мм × 25 м</param>
+<param name="Вариант">Рулон 60 мм × 25 м</param>
+<param name="Единица продажи">шт</param>
 </offer>
 <offer id="Q-EDT" available="true">
 <name>Лента QUATTRO EXPERT DOUBLE TAPE, двусторонняя, Рулон 25 мм × 50 м</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-edt/</url>
 <price>1221</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-edt-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Двусторонняя акриловая лента для монтажа диффузионных мембран.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-edt-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Двусторонняя акриловая лента для монтажа диффузионных мембран. Лента QUATTRO EXPERT DOUBLE TAPE, двусторонняя — поставляем оптом с завода по Москве и Московской области. Основные параметры: рулон 25 мм × 50 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: Проклейка нахлёстов ветрозащитных и диффузионных мембран, примыканий к трубам и окнам..</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Для мембран</param>
+<param name="Тип">Двусторонняя</param>
+<param name="Клей">Акрил</param>
+<param name="Размер рулона">25 мм × 50 м</param>
+<param name="Вариант">Рулон 25 мм × 50 м</param>
+<param name="Единица продажи">шт</param>
 </offer>
 <offer id="Q-STR" available="true">
 <name>Лента QUATTRO STRONG TAPE универсальная, Рулон 60 мм × 25 м</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-str/</url>
 <price>1507</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-str-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Универсальная лента для диффузионных мембран и полипропиленовой пароизоляции.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-str-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Универсальная лента для диффузионных мембран и полипропиленовой пароизоляции. Лента QUATTRO STRONG TAPE универсальная — поставляем оптом с завода по Москве и Московской области. Основные параметры: рулон 60 мм × 25 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: Проклейка нахлёстов мембран и пароизоляции, ремонт повреждений полотна..</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Универсальная</param>
+<param name="Тип">Односторонняя</param>
+<param name="Клей">Акрил</param>
+<param name="Размер рулона">60 мм × 25 м</param>
+<param name="Вариант">Рулон 60 мм × 25 м</param>
+<param name="Единица продажи">шт</param>
 </offer>
 <offer id="Q-SMT" available="true">
 <name>Лента QUATTRO SMART TAPE для пароизоляции YELLOW 200, Рулон 60 мм × 25 м</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-smt/</url>
 <price>974</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-smt-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Лента для монтажа пароизоляции QUATTRO YELLOW 200.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/q-smt-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Лента для монтажа пароизоляции QUATTRO YELLOW 200. Лента QUATTRO SMART TAPE для пароизоляции YELLOW 200 — поставляем оптом с завода по Москве и Московской области. Основные параметры: рулон 60 мм × 25 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: Проклейка нахлёстов пароизоляции изнутри помещения и её примыканий к стенам..</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Для пароизоляции</param>
+<param name="Тип">Односторонняя</param>
+<param name="Клей">Синтетический каучук</param>
+<param name="Размер рулона">60 мм × 25 м</param>
+<param name="Вариант">Рулон 60 мм × 25 м</param>
+<param name="Единица продажи">шт</param>
 </offer>
 <offer id="Q-T" available="true">
 <name>Лента QUATTRO TAPE для пароизоляции, Рулон 50 мм × 25 м</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-t/</url>
 <price>869</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-t-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Герметизация нахлёстов пароизоляционных мембран всех типов, для внутренних работ.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Герметизация нахлёстов пароизоляционных мембран всех типов, для внутренних работ. Лента QUATTRO TAPE для пароизоляции — поставляем оптом с завода по Москве и Московской области. Основные параметры: рулон 50 мм × 25 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: Проклейка нахлёстов пароизоляции изнутри помещения и её примыканий к стенам..</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Для пароизоляции</param>
+<param name="Тип">Односторонняя</param>
+<param name="Клей">Синтетический каучук</param>
+<param name="Размер рулона">50 мм × 25 м</param>
+<param name="Вариант">Рулон 50 мм × 25 м</param>
+<param name="Единица продажи">шт</param>
 </offer>
 <offer id="Q-DT" available="true">
 <name>Лента QUATTRO DOUBLE TAPE для пароизоляции, двусторонняя, Рулон 25 мм × 50 м</name>
+<vendor>QUATTRO</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/q-dt/</url>
 <price>1001</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/q-dt-1.webp</picture>
-<vendor>QUATTRO</vendor>
-<description>Двусторонняя лента для монтажа пароизоляции.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Двусторонняя лента для монтажа пароизоляции. Лента QUATTRO DOUBLE TAPE для пароизоляции, двусторонняя — поставляем оптом с завода по Москве и Московской области. Основные параметры: рулон 25 мм × 50 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: Проклейка нахлёстов пароизоляции изнутри помещения и её примыканий к стенам..</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Для пароизоляции</param>
+<param name="Тип">Двусторонняя</param>
+<param name="Клей">Синтетический каучук</param>
+<param name="Размер рулона">25 мм × 50 м</param>
+<param name="Вариант">Рулон 25 мм × 50 м</param>
+<param name="Единица продажи">шт</param>
 </offer>
 <offer id="NZ-SL" available="true">
 <name>Соединительная лента НАНОИЗОЛ SL, Рулон 20 мм × 50 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-sl/</url>
 <price>568</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-sl-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Для склеивания полотен мембран НАНОИЗОЛ: делает стыки влаго- и паронепроницаемыми.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Для склеивания полотен мембран НАНОИЗОЛ: делает стыки влаго- и паронепроницаемыми. Соединительная лента НАНОИЗОЛ SL — поставляем оптом с завода по Москве и Московской области. Основные параметры: рулон 20 мм × 50 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: Проклейка нахлёстов ветрозащитных и диффузионных мембран, примыканий к трубам и окнам..</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Для мембран</param>
+<param name="Тип">Двусторонняя</param>
+<param name="Клей">Акрил</param>
+<param name="Размер рулона">20 мм × 50 м</param>
+<param name="Вариант">Рулон 20 мм × 50 м</param>
+<param name="Единица продажи">шт</param>
 </offer>
 <offer id="NZ-AL" available="true">
 <name>Алюминиевая лента НАНОИЗОЛ AL, Рулон 50 мм × 25 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-al/</url>
 <price>428</price>
 <currencyId>RUB</currencyId>
 <categoryId>5</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-al-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Для герметизации стыков отражающей пароизоляции, систем вентиляции и кондиционирования.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Для герметизации стыков отражающей пароизоляции, систем вентиляции и кондиционирования. Алюминиевая лента НАНОИЗОЛ AL — поставляем оптом с завода по Москве и Московской области. Основные параметры: рулон 50 мм × 25 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: Проклейка стыков отражающей изоляции, фольгированных материалов, воздуховодов..</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Назначение">Алюминиевая</param>
+<param name="Тип">Односторонняя</param>
+<param name="Клей">Акрил</param>
+<param name="Размер рулона">50 мм × 25 м</param>
+<param name="Вариант">Рулон 50 мм × 25 м</param>
+<param name="Единица продажи">шт</param>
 </offer>
 <offer id="NZ-G80-80" available="true">
 <name>Геотекстиль НАНОИЗОЛ GEO 80, термокаландрированный, Рулон 80 м², 50 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g80/</url>
 <price>1859</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g80-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Нетканый геотекстиль из бесконечных полипропиленовых волокон: разделение, фильтрация, дренаж, дорожки, защита от корней.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Нетканый геотекстиль из бесконечных полипропиленовых волокон: разделение, фильтрация, дренаж, дорожки, защита от корней. Геотекстиль НАНОИЗОЛ GEO 80, термокаландрированный — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 80 г/м², ширина рулона 1,6 м. Варианты: 80 м², 50 м; 40 м², 25 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: разделительный слой под щебень и песок в дорожках, площадках и дорогах; дренажные системы — оборачивание трубы и щебня от заиливания; фундаменты и отмостки; ландшафтные работы и озеленение кровель.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>4.2</weight>
+<param name="Тип">Термокаландрированный</param>
+<param name="Плотность">80 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">177 / 135 Н/5 см</param>
+<param name="Вариант">Рулон 80 м², 50 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-G80-40" available="true">
 <name>Геотекстиль НАНОИЗОЛ GEO 80, термокаландрированный, Рулон 40 м², 25 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g80/</url>
 <price>968</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g80-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Нетканый геотекстиль из бесконечных полипропиленовых волокон: разделение, фильтрация, дренаж, дорожки, защита от корней.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Нетканый геотекстиль из бесконечных полипропиленовых волокон: разделение, фильтрация, дренаж, дорожки, защита от корней. Геотекстиль НАНОИЗОЛ GEO 80, термокаландрированный — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 80 г/м², ширина рулона 1,6 м. Варианты: 80 м², 50 м; 40 м², 25 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: разделительный слой под щебень и песок в дорожках, площадках и дорогах; дренажные системы — оборачивание трубы и щебня от заиливания; фундаменты и отмостки; ландшафтные работы и озеленение кровель.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2.2</weight>
+<param name="Тип">Термокаландрированный</param>
+<param name="Плотность">80 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">177 / 135 Н/5 см</param>
+<param name="Вариант">Рулон 40 м², 25 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-G130-80" available="true">
 <name>Геотекстиль НАНОИЗОЛ GEO 130, термокаландрированный, Рулон 80 м², 50 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g130/</url>
 <price>2575</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g130-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Более плотный термокаландрированный геотекстиль для дорожных и дренажных конструкций.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Более плотный термокаландрированный геотекстиль для дорожных и дренажных конструкций. Геотекстиль НАНОИЗОЛ GEO 130, термокаландрированный — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 130 г/м², ширина рулона 1,6 м. Варианты: 80 м², 50 м; 40 м², 25 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: разделительный слой под щебень и песок в дорожках, площадках и дорогах; дренажные системы — оборачивание трубы и щебня от заиливания; фундаменты и отмостки; ландшафтные работы и озеленение кровель.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>3.9</weight>
+<param name="Тип">Термокаландрированный</param>
+<param name="Плотность">130 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">190 / 155 Н/5 см</param>
+<param name="Вариант">Рулон 80 м², 50 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-G130-40" available="true">
 <name>Геотекстиль НАНОИЗОЛ GEO 130, термокаландрированный, Рулон 40 м², 25 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g130/</url>
 <price>1326</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g130-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Более плотный термокаландрированный геотекстиль для дорожных и дренажных конструкций.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Более плотный термокаландрированный геотекстиль для дорожных и дренажных конструкций. Геотекстиль НАНОИЗОЛ GEO 130, термокаландрированный — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 130 г/м², ширина рулона 1,6 м. Варианты: 80 м², 50 м; 40 м², 25 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: разделительный слой под щебень и песок в дорожках, площадках и дорогах; дренажные системы — оборачивание трубы и щебня от заиливания; фундаменты и отмостки; ландшафтные работы и озеленение кровель.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>2</weight>
+<param name="Тип">Термокаландрированный</param>
+<param name="Плотность">130 г/м²</param>
+<param name="Ширина рулона">1,6 м</param>
+<param name="Разрывная нагрузка, длина / ширина">190 / 155 Н/5 см</param>
+<param name="Вариант">Рулон 40 м², 25 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-G150-42" available="true">
 <name>Геотекстиль НАНОИЗОЛ GEO 150, иглопробивной, Рулон 42 м², 21 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g150/</url>
 <price>2206</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g150-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Нетканое полотно из полиэфирных волокон с хорошей фильтрацией и прочностью на разрыв.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Нетканое полотно из полиэфирных волокон с хорошей фильтрацией и прочностью на разрыв. Геотекстиль НАНОИЗОЛ GEO 150, иглопробивной — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 150 г/м², ширина рулона 2 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: разделительный слой под щебень и песок в дорожках, площадках и дорогах; дренажные системы — оборачивание трубы и щебня от заиливания; фундаменты и отмостки; ландшафтные работы и озеленение кровель.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>4.36</weight>
+<param name="Тип">Иглопробивной</param>
+<param name="Плотность">150 г/м²</param>
+<param name="Ширина рулона">2 м</param>
+<param name="Разрывная нагрузка, длина / ширина">140 / 140 Н/5 см</param>
+<param name="Вариант">Рулон 42 м², 21 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-G200-50" available="true">
 <name>Геотекстиль НАНОИЗОЛ GEO 200, иглопробивной, Рулон 50 м², 25 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g200/</url>
 <price>3273</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g200-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Иглопробивной полиэфирный геотекстиль повышенной плотности.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Иглопробивной полиэфирный геотекстиль повышенной плотности. Геотекстиль НАНОИЗОЛ GEO 200, иглопробивной — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 200 г/м², ширина рулона 2 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: разделительный слой под щебень и песок в дорожках, площадках и дорогах; дренажные системы — оборачивание трубы и щебня от заиливания; фундаменты и отмостки; ландшафтные работы и озеленение кровель.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<weight>7.6</weight>
+<param name="Тип">Иглопробивной</param>
+<param name="Плотность">200 г/м²</param>
+<param name="Ширина рулона">2 м</param>
+<param name="Разрывная нагрузка, длина / ширина">200 / 200 Н/5 см</param>
+<param name="Вариант">Рулон 50 м², 25 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 <offer id="NZ-G300-50" available="true">
 <name>Геотекстиль НАНОИЗОЛ GEO 300, иглопробивной, Рулон 50 м², 25 м</name>
+<vendor>НАНОИЗОЛ</vendor>
 <url>https://tessera321.github.io/plenka-opt/tovar/nz-g300/</url>
 <price>4541</price>
 <currencyId>RUB</currencyId>
 <categoryId>6</categoryId>
 <picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g300-1.webp</picture>
-<vendor>НАНОИЗОЛ</vendor>
-<description>Самый плотный иглопробивной геотекстиль линейки.</description>
-<sales_notes>Только опт, оплата по счёту</sales_notes>
+<picture>https://tessera321.github.io/plenka-opt/img/products/br/nz-g300-2.webp</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<description>Самый плотный иглопробивной геотекстиль линейки. Геотекстиль НАНОИЗОЛ GEO 300, иглопробивной — поставляем оптом с завода по Москве и Московской области. Основные параметры: плотность 300 г/м², ширина рулона 2 м. Цены на сайте с НДС, для юрлиц и ИП — оплата по счёту. Применение: разделительный слой под щебень и песок в дорожках, площадках и дорогах; дренажные системы — оборачивание трубы и щебня от заиливания; фундаменты и отмостки; ландшафтные работы и озеленение кровель.</description>
+<sales_notes>Опт, оплата по счёту для юрлиц и ИП</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+<param name="Тип">Иглопробивной</param>
+<param name="Плотность">300 г/м²</param>
+<param name="Ширина рулона">2 м</param>
+<param name="Вариант">Рулон 50 м², 25 м</param>
+<param name="Единица продажи">рулон</param>
 </offer>
 </offers>
 </shop>
